@@ -6,7 +6,7 @@
 
 ## Follow the path
 
-1. Open [Section 001](/course/section-001#before-next-class) and choose a class date. Distinguish **Posted** from **Planned** before treating a target as a deadline.
+1. Open [Section 001](/course/section-001#before-next-class) and choose a class date. All four project-review stages are now published in Canvas; use their posted deadlines.
 2. Continue the existing Studios; both posted deadlines remain November 6. App Studio starts locally.
 3. Reuse the record to plan one task, compare two approaches and build a narrow workflow.
 4. Use the checked-release handoff to separate local tests, CI and actual hosted evidence.
@@ -16,7 +16,7 @@
 
 | Possible wrong turn | Clarification |
 | --- | --- |
-| “These new dates are already Canvas deadlines.” | Every future checkpoint/card is marked **Planned**; only the two existing Studios have posted assignment links. |
+| “Are the review dates still only tentative?” | The four project-review stages are now published in Canvas. The original Studios remain due Nov 6; Plan Nov 17, Build Nov 24, Checked Release Dec 3 and Improve Dec 10 are official posted deadlines. |
 | “I must deploy App Studio before Nov 6.” | Its published requirement is local; the later hosted project is a separate requirement. |
 | “The static role selector proves authorization.” | Every preview labels the role and browser storage as simulated. Real server-role checks still need separate evidence. |
 | “I need all the AI infrastructure.” | Start with a small corpus and actual RAG using vector, graph or both. Paid infrastructure and model training are not required. |
@@ -31,7 +31,7 @@ The browser receipt below records the task and narrow-screen checks separately. 
 
 ## Next real-student check
 
-Ask two or three volunteers to find the next task, explain the posted/planned distinction, try a preview task and identify the missing backend evidence. Have real partners use the review routine, then log elapsed time, questions and wrong turns. This pilot is **pending**, not a completed usability study.
+Ask two or three volunteers to find the next task, locate the current Canvas deadlines, try a preview task and identify the missing backend evidence. Have real partners use the review routine, then log elapsed time, questions and wrong turns. This pilot is **pending**, not a completed usability study.
 
 ## Browser review receipt · November 2, 2026
 

@@ -36,6 +36,10 @@ Keep database services private, enforce server-side permissions for import/admin
 
 Compare a simple keyword/structured baseline with your selected approach. Compare two bounded design choices such as chunk boundaries, metadata filters, graph schema or answer presentation; one implementation and a documented experiment are sufficient.
 
+## Research now; implement in the next stage
+
+For the research workshop and Plan, explain the process, compare approaches, prepare sources/questions and identify model access, cost and hosting questions. A running app is not required at Plan. The handout is a research guide; ContentDesk is an ETL/authentication reference, not a complete RAG starter. Bring unresolved setup/model-access questions to the workshop before committing to a stack or paid service. Working hosted implementation is required at Build. [Plan example](/examples/plan).
+
 ## Start here
 
 [Independent database/RAG handout](/handouts/database-rag-research) · [Printable PDF](/handouts/IS373_Vector_Graph_and_RAG_Research.pdf) · [Career-informed portfolio](/projects/portfolio) · [Review dates](/course/section-001).

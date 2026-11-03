@@ -2,6 +2,8 @@
 
 Use these exact headings: **1. Individual portfolio + career research; 2. Individual RAG app + technical research; 3. Group content system + problem research**. Keep sections 1 and 2 in an individual record; section 3 belongs in the shared team record. Within each section, keep Research, Plan, Build, Checked Release and Improve evidence. Add short updates and links rather than another weekly report. Keep private career reflection and personal information out of the public repository.
 
+[See a small worked Plan outline](/examples/plan). It is fictional, includes unexecuted checks and does not replace your actual employer research.
+
 ## Three-section index to copy
 
 ### 1. Individual portfolio + career research
