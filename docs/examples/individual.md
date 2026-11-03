@@ -1,10 +1,11 @@
 ---
 outline: false
-> Reference scope: these earlier content-app examples demonstrate parts of the process. They do not implement the current hosted RAG requirement. Follow the [current portfolio/RAG/group briefs](/course/overview) and [project review rubric](/course/milestones); any practice scores below are historical teaching examples.
 
 ---
 
 # Two individual examples
+
+> Reference scope: these earlier content-app examples demonstrate parts of the process. They do not implement the current hosted RAG requirement. Follow the [current portfolio/RAG/group briefs](/course/overview) and [project review rubric](/course/milestones); any practice scores below are historical teaching examples.
 
 These are **fictional teaching records**. The source and browser previews are real, but the people, customer situations and critique scenarios are invented. No genuine peer walkthrough or secure backend is claimed. Future criteria are not posted, so every score below is **practice feedback using the familiar 40/35/25 structure**, not an official final-project grade.
 

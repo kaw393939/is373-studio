@@ -1,10 +1,11 @@
 ---
 outline: false
-> Reference scope: these earlier content-app examples demonstrate parts of the process. They do not implement the current hosted RAG requirement. Follow the [current portfolio/RAG/group briefs](/course/overview) and [project review rubric](/course/milestones); any practice scores below are historical teaching examples.
 
 ---
 
 # Two group examples
+
+> Reference scope: these earlier content-app examples demonstrate parts of the process. They do not implement the current hosted RAG requirement. Follow the [current portfolio/RAG/group briefs](/course/overview) and [project review rubric](/course/milestones); any practice scores below are historical teaching examples.
 
 These are **fictional teams and critique scenarios**, with real browser-only fixture previews. Human collaboration, client interviews, peer sessions and a deployed service remain unverified. Scores use the current Studio's familiar 40/35/25 structure for **practice only**; future final criteria remain unposted.
 
