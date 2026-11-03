@@ -1,0 +1,76 @@
+{
+  "study-brief": [
+    {
+      "id": "campus-1",
+      "source": "Teaching fixture A",
+      "title": " Writing   Lab Drop-in ",
+      "category": "Support",
+      "url": "https://example.org/classroom/writing-lab",
+      "body": "Fictional sample: writing support is available in the afternoon."
+    },
+    {
+      "id": "campus-2",
+      "source": "Teaching fixture B",
+      "title": "Linear Algebra Practice",
+      "category": "Study",
+      "url": "https://example.org/classroom/algebra",
+      "body": "Fictional sample: bring one problem to a practice session."
+    },
+    {
+      "id": "campus-1-copy",
+      "source": "Teaching fixture A copy",
+      "title": "Writing Lab Drop-in",
+      "category": "Support",
+      "url": "https://example.org/classroom/writing-lab#details",
+      "body": "Duplicate of the first source."
+    },
+    {
+      "id": "bad-title",
+      "source": "Negative fixture",
+      "title": "  ",
+      "url": "https://example.org/classroom/missing-title",
+      "body": "This row should be rejected."
+    }
+  ],
+  "neighbor-notes": [
+    {
+      "id": "n-1",
+      "source": "Teaching fixture Pantry",
+      "title": " Pantry   packing session ",
+      "category": "Volunteer",
+      "url": "https://example.org/classroom/pantry",
+      "body": "Fictional sample only: sort and pack a small supply box."
+    },
+    {
+      "id": "n-2",
+      "source": "Teaching fixture Campus",
+      "title": "Campus clean-up",
+      "category": "Community",
+      "url": "https://example.org/classroom/cleanup",
+      "body": "Fictional sample only: a one-hour clean-up task."
+    },
+    {
+      "id": "n-3",
+      "source": "Teaching fixture Supplies",
+      "title": "Donation sorting",
+      "category": "Volunteer",
+      "url": "https://example.org/classroom/sorting",
+      "body": "Fictional sample only: label incoming supplies."
+    },
+    {
+      "id": "n-1-copy",
+      "source": "Teaching fixture Pantry copy",
+      "title": "Pantry packing session",
+      "category": "Volunteer",
+      "url": "https://example.org/classroom/pantry",
+      "body": "Duplicate of the first input."
+    },
+    {
+      "id": "unsafe-url",
+      "source": "Negative fixture",
+      "title": "Bad source test",
+      "url": "javascript:alert(1)",
+      "body": "This row should be rejected."
+    }
+  ]
+}

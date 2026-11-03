@@ -1,0 +1,351 @@
+{
+  "001": {
+    "courseId": 70733,
+    "checkpoints": [
+      {
+        "key": "server-studio",
+        "title": "Server Studio",
+        "date": "2026-11-06",
+        "time": "11:59 p.m.",
+        "status": "posted",
+        "assignmentId": 767933
+      },
+      {
+        "key": "app-studio",
+        "title": "App Studio",
+        "date": "2026-11-06",
+        "time": "11:59 p.m.",
+        "status": "posted",
+        "assignmentId": 767934
+      },
+      {
+        "key": "individual-plan",
+        "title": "Individual Plan",
+        "date": "2026-11-17",
+        "time": "1 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "group-plan",
+        "title": "Group Plan",
+        "date": "2026-11-17",
+        "time": "1 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "individual-build",
+        "title": "Individual Build",
+        "date": "2026-11-24",
+        "time": "1 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "group-build",
+        "title": "Group Build",
+        "date": "2026-11-24",
+        "time": "1 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "individual-release",
+        "title": "Individual checked release",
+        "date": "2026-12-03",
+        "time": "1 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "group-release",
+        "title": "Group checked release",
+        "date": "2026-12-03",
+        "time": "1 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "individual-improve",
+        "title": "Individual final readiness",
+        "date": "2026-12-10",
+        "time": "11:59 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "group-improve",
+        "title": "Group final readiness",
+        "date": "2026-12-10",
+        "time": "11:59 p.m.",
+        "status": "planned"
+      }
+    ],
+    "classes": [
+      {
+        "date": "2026-11-03",
+        "label": "Tue Nov 3 · Continue current Studios",
+        "bring": "Existing hosting/app repositories, SPEC/LEARNING and one actual result.",
+        "work": "Locate your next Studio checkpoint; revisit the small group content problem.",
+        "review": "A classmate asks what one actual result proves and what remains untested.",
+        "update": "Correct your existing record; do not create a duplicate baseline report.",
+        "due": [],
+        "next": [
+          "server-studio",
+          "app-studio"
+        ],
+        "guide": {
+          "link": "/projects/studios",
+          "text": "Current Studio requirements"
+        },
+        "example": {
+          "link": "/examples/individual",
+          "text": "Individual example"
+        },
+        "note": "Both existing Studio deadlines are posted for Friday Nov 6 at 11:59 p.m."
+      },
+      {
+        "date": "2026-11-05",
+        "label": "Thu Nov 5 · Studio workshop and groups",
+        "bring": "Current Studio progress, errors/checks and a feasible group ETL idea.",
+        "work": "Work on the posted lessons; confirm group members and a small content need.",
+        "review": "Try a peer task; record a useful issue and response.",
+        "update": "Keep actual checks, observations and help received in the existing files.",
+        "due": [],
+        "next": [
+          "server-studio",
+          "app-studio"
+        ],
+        "guide": {
+          "link": "/process/collaboration",
+          "text": "Review routine"
+        },
+        "example": {
+          "link": "/projects/studios",
+          "text": "Posted submission checklist"
+        },
+        "note": "The two separate Studio submissions remain due Nov 6. App Studio does not require deployment."
+      },
+      {
+        "date": "2026-11-10",
+        "label": "Tue Nov 10 · Plan the next small workflow",
+        "bring": "Current app result, a user task and approved/synthetic group source ideas.",
+        "work": "Compare two approaches; agree reader, data, roles and success checks.",
+        "review": "Can a peer explain the main task and identify an assumption?",
+        "update": "Continue individual/shared records; assign comparable work and different reviewers.",
+        "due": [],
+        "next": [
+          "individual-plan",
+          "group-plan"
+        ],
+        "guide": {
+          "link": "/process/specifications",
+          "text": "Write a small plan"
+        },
+        "example": {
+          "link": "/examples/group",
+          "text": "Filled group plans"
+        },
+        "note": "The next checkpoints are planned targets until Canvas posts their criteria and submission boxes."
+      },
+      {
+        "date": "2026-11-12",
+        "label": "Thu Nov 12 · Plan workshop",
+        "bring": "Two approaches, three to five stories and a proposed work split.",
+        "work": "Refine scope and checks; keep a small source → transform → output path.",
+        "review": "A peer checks whether each story can pass or fail; respond to their issue.",
+        "update": "Choose a direction with a reason; update the same records.",
+        "due": [],
+        "next": [
+          "individual-plan",
+          "group-plan"
+        ],
+        "guide": {
+          "link": "/process/collaboration",
+          "text": "Review routine"
+        },
+        "example": {
+          "link": "/examples/individual",
+          "text": "Filled individual plans"
+        },
+        "note": ""
+      },
+      {
+        "date": "2026-11-17",
+        "label": "Tue Nov 17 · Planned Plan handoff; start Build",
+        "bring": "Chosen plans, current repositories and working starter/setup.",
+        "work": "Use the plan to build one main task; integrate small changes early.",
+        "review": "Check task owners, reviewers and observable expected results.",
+        "update": "Link current work and actual contributions; label unfinished behavior.",
+        "due": [
+          "individual-plan",
+          "group-plan"
+        ],
+        "next": [
+          "individual-build",
+          "group-build"
+        ],
+        "guide": {
+          "link": "/projects/individual",
+          "text": "Individual workflow scope"
+        },
+        "example": {
+          "link": "/examples/group",
+          "text": "Group example"
+        },
+        "note": "All new handoffs remain planned until posted in Canvas."
+      },
+      {
+        "date": "2026-11-19",
+        "label": "Thu Nov 19 · Build and cross-review",
+        "bring": "A/B workflow views and a small runnable slice.",
+        "work": "Try valid, rejected and relevant permission cases; integrate group slices.",
+        "review": "A real peer attempts the same task without coaching; partners cross-review.",
+        "update": "Record the observation, response, chosen approach and actual checks.",
+        "due": [],
+        "next": [
+          "individual-build",
+          "group-build"
+        ],
+        "guide": {
+          "link": "/process/quality",
+          "text": "Check the result"
+        },
+        "example": {
+          "link": "/examples/individual",
+          "text": "Individual example"
+        },
+        "note": ""
+      },
+      {
+        "date": "2026-11-24",
+        "label": "Tue Nov 24 · Planned Build handoff; prepare release",
+        "bring": "Current builds, fixture inputs and open issues.",
+        "work": "Agree checked-release and handoff evidence before Thanksgiving.",
+        "review": "Can someone distinguish local tests, CI and actual hosted operation?",
+        "update": "Keep the chosen revision/setup and a small next action.",
+        "due": [
+          "individual-build",
+          "group-build"
+        ],
+        "next": [
+          "individual-release",
+          "group-release"
+        ],
+        "guide": {
+          "link": "/process/quality",
+          "text": "Release evidence"
+        },
+        "example": {
+          "link": "/examples/group",
+          "text": "Group example"
+        },
+        "note": "No class Thursday Nov 26. Checked release is a planned delivery handoff, not a retroactive App Studio requirement."
+      },
+      {
+        "date": "2026-12-01",
+        "label": "Tue Dec 1 · Checked-release workshop",
+        "bring": "Chosen revision, setup, actual check results and current limits.",
+        "work": "Reproduce the agreed run and improve delivery evidence on existing infrastructure.",
+        "review": "A peer reproduces a task and questions what one check establishes.",
+        "update": "Resolve real failures; keep local/CI/hosted claims separate.",
+        "due": [],
+        "next": [
+          "individual-release",
+          "group-release"
+        ],
+        "guide": {
+          "link": "/process/quality",
+          "text": "Test and explain"
+        },
+        "example": {
+          "link": "/examples/group",
+          "text": "Group release notes"
+        },
+        "note": ""
+      },
+      {
+        "date": "2026-12-03",
+        "label": "Thu Dec 3 · Planned release handoff",
+        "bring": "Current records, working links and the next real peer-review task.",
+        "work": "Review the chosen release and prepare final walkthroughs and rehearsal.",
+        "review": "Check version identity, setup, source trace and remaining issues.",
+        "update": "Name the actual contribution and next fix; no new project.",
+        "due": [
+          "individual-release",
+          "group-release"
+        ],
+        "next": [
+          "individual-improve",
+          "group-improve"
+        ],
+        "guide": {
+          "link": "/process/collaboration",
+          "text": "Prepare the final review"
+        },
+        "example": {
+          "link": "/examples/individual",
+          "text": "Individual improvement notes"
+        },
+        "note": "Dec 8/10 are protected finishing/review classes; no new topic."
+      },
+      {
+        "date": "2026-12-08",
+        "label": "Tue Dec 8 · Protected work and peer reviews",
+        "bring": "Both working projects, one task per review and open issues.",
+        "work": "Catch up, finish workflows and make meaningful feedback-driven changes.",
+        "review": "A real peer tries each task; partners take comparable design/development/QA roles.",
+        "update": "Link issue → response → change → retest and current contributions.",
+        "due": [],
+        "next": [
+          "individual-improve",
+          "group-improve"
+        ],
+        "guide": {
+          "link": "/process/collaboration",
+          "text": "Review routine"
+        },
+        "example": {
+          "link": "/examples/group",
+          "text": "Group improvement example"
+        },
+        "note": "No new topic, stack or feature. Final readiness Dec 10 at 11:59 p.m. is a planned target."
+      },
+      {
+        "date": "2026-12-10",
+        "label": "Thu Dec 10 · Protected finish and rehearse",
+        "bring": "Final links, review evidence, setup and a short demo story.",
+        "work": "Finish fixes, retest and rehearse both projects and each contribution.",
+        "review": "Verify links and one meaningful improvement; state unfinished work honestly.",
+        "update": "Keep the same URLs current for the Dec 18 demo.",
+        "due": [],
+        "next": [
+          "individual-improve",
+          "group-improve"
+        ],
+        "guide": {
+          "link": "/demo-days",
+          "text": "Prepare the demo"
+        },
+        "example": {
+          "link": "/examples/student-walkthrough",
+          "text": "Walkthrough and limits"
+        },
+        "note": "Planned final readiness is tonight at 11:59 p.m.; this is not a deadline before class. Canvas will confirm actual submissions."
+      },
+      {
+        "date": "2026-12-18",
+        "label": "Fri Dec 18 · Posted Demo Day / final period",
+        "bring": "Working project links, chosen revision, setup and contribution evidence.",
+        "work": "Demonstrate the user task, actual check and real improvement.",
+        "review": "Each person explains their own choices and work.",
+        "update": "Record any instructor-requested follow-up without changing the historical evidence.",
+        "due": [],
+        "next": [],
+        "guide": {
+          "link": "/demo-days",
+          "text": "Demo preparation"
+        },
+        "example": {
+          "link": "/course/sources",
+          "text": "Confirmed facts and delivery status"
+        },
+        "note": "Posted time: 8:30–11 a.m. Eastern. Follow Canvas for confirmed delivery/joining arrangements."
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "is373-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "check": "node scripts/check-content.mjs",
+    "check:built": "node scripts/check-built.mjs",
+    "check:examples": "node docs/public/samples/verify.mjs"
+  },
+  "devDependencies": {
+    "vitepress": "1.6.4"
+  },
+  "overrides": {
+    "vite": "6.4.5"
+  }
+}
