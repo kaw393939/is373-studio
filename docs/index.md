@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: IS373 Studio
-  text: Useful content. Checked delivery.
+  text: Content. Checks. Delivery.
   tagline: Keep your current server and app work growing into a small content system you can test, review and explain.
   actions:
     - theme: brand
