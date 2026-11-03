@@ -1,6 +1,6 @@
-# Your individual RAG application
+# Deliverable 2 - Individual RAG app + technical research
 
-**Build a working RAG chat on your own hosted portfolio website using a vector database, graph database, or both.** Everyone researches both database approaches and explains the choice. Reuse your existing app, server and project records. The portfolio and RAG are connected individual deliverables; the group content system is separate.
+**Your product is your own working hosted RAG application. Your research is vector/graph databases, RAG, chunking, content import and evaluation.** Use a vector database, graph database, or both. Everyone researches both database approaches and explains the choice. Reuse your existing app, server and project records. This is distinct from **Deliverable 1, your career-informed portfolio**, and **Deliverable 3, your group content system**. The app can run within your portfolio site; present it as its own technical product and case study. Keep its evidence under **2. Individual RAG app + technical research**.
 
 ## Understand the whole process
 

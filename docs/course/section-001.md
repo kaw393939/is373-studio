@@ -2,6 +2,14 @@
 
 **Tuesday/Thursday, 1-2:20 p.m. Eastern, GITC 3600. Fall 2026.** Bring current work and participate under the course attendance and accommodation policies.
 
+## Keep three deliverables visible
+
+1. **Individual portfolio + career research:** choose a role/reader and build your hosted professional site.
+2. **Individual RAG app + technical research:** compare database/retrieval approaches and build your own source-supported chat application.
+3. **Group content system + problem research:** research a course problem and build a shared useful workflow.
+
+Bring the relevant progress for all three. [Separate expectations at each stage](/course/milestones) · [Full three-deliverable overview](/course/overview).
+
 ## Before next class
 
 <ClassWorkCard section="001" />

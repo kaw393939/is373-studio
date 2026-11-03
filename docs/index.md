@@ -3,7 +3,7 @@ layout: home
 hero:
   name: IS373 Studio
   text: Research, build, host and explain
-  tagline: A career-informed portfolio, your own RAG chat and a shared content system.
+  tagline: Three deliverables. Two individual projects. One group project.
   actions:
     - theme: brand
       text: My next class
@@ -12,16 +12,20 @@ hero:
       text: Student handouts
       link: /handouts/
 features:
-  - title: Your career-informed portfolio
+  - title: 1. Individual portfolio + career research
     details: Research AI-related roles and design your hosted site around the reader and evidence.
     link: /projects/portfolio
-  - title: Your individual RAG
+  - title: 2. Individual RAG app + technical research
     details: Import content and retrieve evidence with vector, graph or both. Demonstrate a working hosted chat.
     link: /projects/individual
-  - title: Your group content system
+  - title: 3. Group content system + problem research
     details: Address a course problem, justify the architecture and share meaningful design, development and checks.
     link: /projects/group
 ---
+
+## Three deliverables, three research purposes
+
+**1. Career research shapes your portfolio. 2. Database/RAG research shapes your own app. 3. Problem research shapes your team's content system.** Your portfolio showcases the other two, but all three need their own evidence. [See exactly what to build, research and show](/course/overview).
 
 ## Today: start the research and find a partner
 

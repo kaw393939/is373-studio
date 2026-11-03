@@ -6,11 +6,12 @@
 
 Dec 8/10 are protected finishing, feedback, retesting and rehearsal classes. Submit Improve/final readiness by Dec 10 at 11:59 p.m. Keep those record/site URLs current for Demo Day. Finals reuse the Improve evidence and your explanation rather than requiring another report.
 
-## Rehearse three connected deliverables
+## Organize your demo around all three deliverables
 
-1. Portfolio: explain the researched career direction, target reader and evidence you chose to feature.
-2. Individual RAG: show a question, retrieved passages or graph facts, a source-supported answer and an insufficient-evidence case. Explain one content-preparation and architecture decision.
-3. Group: show the chosen problem, input/transformation/retrieval/review/output task and each member's actual contribution.
-4. Show a real peer observation, meaningful improvement and retest. State operating limits and unfinished work accurately.
+1. **Individual portfolio + career research:** show your chosen role/reader, one employer-to-design decision and how a visitor finds credible project evidence.
+2. **Individual RAG app + technical research:** show a real source import/representation, retrieved evidence, a generated answer with references, and an insufficient-evidence case. Explain your vector/graph choice.
+3. **Group content system + problem research:** show the shared reader/problem, useful workflow, checks and exactly what each person contributed.
 
-This is a rehearsal sequence, not a promised slot length. Have the chosen revision, repository, setup and dated fallback screenshots/recording ready. Label recorded behavior honestly if a live service fails. [Rubric](/course/milestones) · [Review routine](/process/collaboration).
+The portfolio can host the RAG app and showcase the group result. Give each deliverable its own explanation and evidence.
+
+Show a real peer observation, meaningful improvement and retest for each product. Keep the chosen revision, repository, setup and dated fallback evidence ready. State limits and unfinished work accurately; label recorded behavior if a live service fails. [Rubric](/course/milestones).

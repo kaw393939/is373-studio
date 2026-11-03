@@ -22,7 +22,7 @@
       },
       {
         "key": "individual-plan",
-        "title": "Portfolio and RAG Plan",
+        "title": "1. Portfolio + 2. RAG app Plan",
         "date": "2026-11-17",
         "time": "1 p.m.",
         "status": "posted",
@@ -31,7 +31,7 @@
       },
       {
         "key": "group-plan",
-        "title": "Group content system Plan",
+        "title": "3. Group content system Plan",
         "date": "2026-11-17",
         "time": "1 p.m.",
         "status": "posted",
@@ -40,7 +40,7 @@
       },
       {
         "key": "individual-build",
-        "title": "Portfolio and RAG Build",
+        "title": "1. Portfolio + 2. RAG app Build",
         "date": "2026-11-24",
         "time": "1 p.m.",
         "status": "posted",
@@ -49,7 +49,7 @@
       },
       {
         "key": "group-build",
-        "title": "Group content system Build",
+        "title": "3. Group content system Build",
         "date": "2026-11-24",
         "time": "1 p.m.",
         "status": "posted",
@@ -58,7 +58,7 @@
       },
       {
         "key": "individual-release",
-        "title": "Portfolio and RAG checked release",
+        "title": "1. Portfolio + 2. RAG app checked release",
         "date": "2026-12-03",
         "time": "1 p.m.",
         "status": "posted",
@@ -67,7 +67,7 @@
       },
       {
         "key": "group-release",
-        "title": "Group content system checked release",
+        "title": "3. Group content system checked release",
         "date": "2026-12-03",
         "time": "1 p.m.",
         "status": "posted",
@@ -76,7 +76,7 @@
       },
       {
         "key": "individual-improve",
-        "title": "Portfolio and RAG final readiness",
+        "title": "1. Portfolio + 2. RAG app final readiness",
         "date": "2026-12-10",
         "time": "11:59 p.m.",
         "status": "posted",
@@ -85,7 +85,7 @@
       },
       {
         "key": "group-improve",
-        "title": "Group content system final readiness",
+        "title": "3. Group content system final readiness",
         "date": "2026-12-10",
         "time": "11:59 p.m.",
         "status": "posted",

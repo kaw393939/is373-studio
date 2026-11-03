@@ -1,27 +1,57 @@
-# Three connected deliverables
+# Your three deliverables
 
-Build on your server and FastAPI Studios. Your individual portfolio and RAG application share your hosted website; your group builds a separate content system.
+You will produce **two individual deliverables and one group deliverable**. Each starts with research and develops into a working result. Use these same three names in your project records, reviews and demo.
 
-| Deliverable | Purpose | Evidence |
-| --- | --- | --- |
-| [Career-informed portfolio](/projects/portfolio) | Research AI-related roles and design for a chosen reader | Employer research, role-to-evidence map, hosted professional pages and project case studies |
-| [Individual RAG application](/projects/individual) | Understand content preparation, databases, retrieval and grounded generation | Working hosted chat using vector, graph or both; source/import records; actual evaluation |
-| [Group content system](/projects/group) | Address a course content problem together | Useful shared workflow, justified architecture, quality checks and each person's contribution |
+## Deliverable 1 - Individual portfolio + career research
 
-Career research is the portfolio's research stage. It helps you choose the audience, design, project evidence and learning priorities. It is not a separate final product.
+**Question:** What kind of work do I want to pursue, and how will I show that I can do it?
 
-## This week
+Research FDE and other AI-related roles. Compare employer descriptions, choose a provisional role and reader, and use that evidence to design **your own hosted professional portfolio website**. Show your interests, capabilities, project case studies, links and your own contribution. Career research belongs to this deliverable.
 
-Nov 3: discuss the plan, begin research and meet prospective partners. Nov 5: Studio workshop, research questions and group direction. Bring your current repositories, a working result or exact blocker, one job description and a possible content problem. You do not need completed research or a RAG implementation today.
+**Show:** employer evidence → target role/reader → portfolio design choices → hosted portfolio → peer feedback and improvement.
 
-Server Studio and App Studio remain **100 points each, due Nov 6 at 11:59 p.m. Eastern**. App Studio remains local. [Posted Studio scope](/projects/studios).
+[Deliverable 1 instructions](/projects/portfolio) · [Career research guide](/handouts/career-research).
 
-## The review rhythm
+## Deliverable 2 - Individual RAG app + technical research
 
-Introduce a small task, work and receive real peer feedback the next class, then hand in the updated record as the next stage starts. Research Nov 10/12; Plan Nov 17; Build Nov 24; checked hosted release Dec 3; Improve/final readiness Dec 10. Protect Dec 8/10 for fixes and rehearsal. Demo Day is Dec 18, 8:30-11 a.m. Eastern. [Full schedule](/course/section-001).
+**Question:** How can my application use retrieved source evidence to answer a useful question?
 
-## Keep records useful
+Research vector databases, graph databases, RAG, chunking, embeddings, content import and evaluation. Justify vector, graph or both, then build **your own working hosted RAG application** with source-supported chat. Technical database/RAG research belongs to this deliverable.
 
-Keep one individual record with portfolio/research and RAG sections, plus one shared group record. Link sources, code, issues, checks and actual feedback. Submit a short changed/checked/next note; do not rewrite the same report each week. [Copy the record](/templates/project-record).
+**Show:** technical comparison → architecture choice → permitted content import → retrieval → generated answer with sources → evaluation and improvement.
 
-Canvas carries official submission boxes, deadlines and grades. [Assessment](/course/milestones) · [Student handouts](/handouts/) · [Demo preparation](/demo-days).
+[Deliverable 2 instructions](/projects/individual) · [Database/RAG research guide](/handouts/database-rag-research).
+
+## Deliverable 3 - Group content system + problem research
+
+**Question:** What content problem can our team solve for a particular reader?
+
+With a partner, research one Canvas course problem: information isolation, educational-content publishing, or another agreed content ETL workflow. Build **one shared hosted content system**. Share design, implementation and checking, and identify what each person contributed.
+
+**Show:** reader/problem research → shared workflow and architecture → useful hosted result → checks, peer feedback and named contributions.
+
+[Deliverable 3 instructions](/projects/group).
+
+## How the three connect
+
+Your portfolio showcases your individual RAG app and your own contribution to the group project. The RAG app may run within the same hosted site as the portfolio, but it has its own technical research, behavior and evaluation. The group builds a shared product beyond a copy of one person's chat.
+
+**Portfolio = professional presentation. RAG app = individual technical product. Group system = shared problem-solving product.**
+
+## What to bring to class
+
+1. **Portfolio:** one original job description, three responsibilities and an idea for evidence you could show.
+2. **RAG app:** a possible content domain, one useful question and initial questions about vector/graph retrieval.
+3. **Group:** a possible course problem and readiness to find a partner.
+
+Also bring current Studio repositories, a working result or exact blocker. You do not need completed research or a RAG implementation today. Server Studio and App Studio remain **100 points each, due Nov 6 at 11:59 p.m. Eastern**. App Studio remains local. [Studio scope](/projects/studios).
+
+## Reviews and records
+
+Develop all three through Plan, Build, Checked Release and Improve. Keep three clearly labeled evidence sections: **1. Portfolio and career research; 2. RAG app and technical research; 3. Group system and problem research**. Sections 1 and 2 can live in one individual record; section 3 lives in the team's shared record.
+
+Canvas currently collects sections 1 and 2 in one individual review box and section 3 in a group review box at each stage. **Two submission boxes do not mean two deliverables.** Use the headings so both individual deliverables can be reviewed separately within the same submission. No duplicate weekly reports.
+
+Research Nov 10/12; Plan Nov 17; Build Nov 24; Checked Release Dec 3; Improve/final readiness Dec 10. Dec 8/10 are protected for fixes and rehearsal. Demo Day: Dec 18, 8:30-11 a.m. Eastern.
+
+[Three-deliverable milestone checklist](/course/milestones) · [Copy the record](/templates/project-record) · [Student handouts](/handouts/) · [Demo preparation](/demo-days). Canvas carries official deadlines, submissions and grades.

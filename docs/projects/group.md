@@ -1,6 +1,8 @@
-# Your group content system
+# Deliverable 3 - Group content system + problem research
 
-**Choose one existing IS373 problem and build a useful shared content system.** The Canvas syllabus offers information isolation caused by social media, automatic educational-content publishing, or another content ETL pipeline. Start with the reader and content process, research the problem, and justify vector retrieval, graph retrieval or both.
+**Your product is one shared hosted content system. Your research is the reader, course problem, sources and workflow.** Choose one existing IS373 problem and build with a partner. The Canvas syllabus offers information isolation caused by social media, automatic educational-content publishing, or another content ETL pipeline. Start with the reader and content process, research the problem, and justify vector retrieval, graph retrieval or both.
+
+This is separate from each person's **Deliverable 1, portfolio**, and **Deliverable 2, RAG app**. Each portfolio later explains its owner's contribution to this shared system. Keep evidence under **3. Group content system + problem research** in the team record.
 
 ## Choose a bounded problem
 

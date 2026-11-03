@@ -1,6 +1,6 @@
 # Reviews and assessment
 
-Keep one evolving individual record with portfolio/career research and RAG sections, plus one shared group record. Each review links the current site/repository, sources, relevant issues/PRs and actual checks with a short changed/checked/next note. No duplicate report is required.
+Track **three deliverables** throughout the same four stages: **1. Individual portfolio + career research; 2. Individual RAG app + technical research; 3. Group content system + problem research**. Keep sections 1 and 2 in an individual record and section 3 in a shared group record. Each review links the current site/repository, sources, relevant issues/PRs and actual checks with a short changed/checked/next note. No duplicate report is required.
 
 ## Current Studio assignments
 
@@ -10,12 +10,12 @@ Server Studio and App Studio each remain 100 points, due **Nov 6, 11:59 p.m. Eas
 
 Each stage has one combined individual review and one group review, 100 points each. All dates below are 2026 Eastern. Research on Nov 10/12 feeds the Plan review; it is not another submission.
 
-| Review | Individual portfolio and RAG | Group content system | Due |
+| Stage and due (Eastern) | 1. Individual portfolio + career research | 2. Individual RAG app + technical research | 3. Group content system + problem research |
 | --- | --- | --- | --- |
-| Plan | Three employer postings, two career directions, chosen reader, portfolio outline, vector/graph/RAG research, chosen architecture, sources and evaluation questions | Course problem, reader, source permission, two approaches, workflow, stories/checks and owner/reviewer split | Nov 17, 1 p.m. |
-| Build | Hosted portfolio foundation and a small working import/retrieval/chat journey; actual checks and limits | One integrated useful source-to-output workflow, current contributions and checks | Nov 24, 1 p.m. |
-| Checked release | Working hosted site/chat, persistent data, source references, actual evaluation, version and repeatable setup | Hosted workflow, provenance, integration checks, version/setup and contributions | Dec 3, 1 p.m. |
-| Improve | Real peer tasks, meaningful fixes/retests, portfolio case studies and final links | Real peer workflow, meaningful fix/retest, final shared record and contribution evidence | Dec 10, 11:59 p.m. |
+| Plan - Nov 17, 1 p.m. | Three original job postings, compare two directions, target role/reader, evidence map, page outline and two lightweight layout options | Compare vector/graph/RAG; choose architecture; permitted sources, import/representation sketch, evaluation questions and hosting plan | Reader/course problem, permitted sources, two approaches, chosen workflow, stories/checks and owner/reviewer split |
+| Build - Nov 24, 1 p.m. | Hosted portfolio foundation with introduction, target direction, navigation and project placeholders accurately labeled | Small working hosted import → retrieval → chat journey; sources, actual checks and limits | One integrated useful source-to-output workflow; current contributions and checks |
+| Checked Release - Dec 3, 1 p.m. | Readable hosted portfolio, accurate project case studies and working evidence/contact links | Working hosted app, persistent data, source references, actual query evaluation, version and repeatable setup | Hosted shared workflow, provenance, integration checks, version/setup and contribution links |
+| Improve - Dec 10, 11:59 p.m. | A peer finds your direction and evidence; improve/retest the portfolio and finish case studies | A peer tries supported and missing-evidence questions; improve/retest the app and preserve final evidence | A peer tries the shared workflow; meaningful fix/retest, final team record and individual contribution evidence |
 
 ## Project review and final rubric
 
@@ -30,7 +30,12 @@ This 25/25/25/25 rubric applies prospectively to these project reviews and final
 
 ## How to submit
 
-Use the matching published Canvas review box. Individual: submit your record/repository and current hosted link. At Plan, an existing hosted link is optional: label your local setup or planned URL clearly. A working hosted foundation is required at Build. Group: each member submits the shared record/repository, their own contribution note, and a demo link if one exists; label unbuilt or local work honestly at Plan. Link the real issue/change/check evidence; do not submit instructor templates as your work.
+Use the matching published Canvas review box. The current gradebook has **two submission boxes per stage, collecting evidence for three deliverables**:
+
+1. **Individual review:** include two separately headed sections: **1. Individual portfolio + career research**, with portfolio record/site/repository links; **2. Individual RAG app + technical research**, with technical record/app/repository and actual source/query/check links. One record or repository is fine if both sections are easy to locate.
+2. **Group review:** each member links **3. Group content system + problem research**, the shared record/repository/demo, and their own contribution note.
+
+At Plan, a hosted link is optional: label local setup, planned URLs and unbuilt work clearly. A working hosted foundation and small app journey are required at Build. Add short changed/checked/next notes under each deliverable; reuse existing evidence rather than writing duplicate reports.
 
 The final gradebook assessment date is **Dec 18, 8:30 a.m. Eastern**, when Demo Day begins. Finals use Canvas No Submission assessments; no additional upload or report is due that morning.
 

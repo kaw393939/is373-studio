@@ -6,3 +6,11 @@ Use these outside class, then bring your sources, questions and current work to 
 - [Vector databases, graph databases and RAG research](/handouts/database-rag-research) · [Printable PDF](/handouts/IS373_Vector_Graph_and_RAG_Research.pdf)
 - [Copyable research prompts](/handouts/IS373_Research_Prompts.txt)
 - [Project record](/templates/project-record) · [Next class and pacing](/course/section-001)
+
+## Which deliverable does each guide support?
+
+1. **Individual portfolio + career research:** use the career guide to choose a role/reader and design the portfolio.
+2. **Individual RAG app + technical research:** use the database/RAG guide to choose and build your own retrieval application.
+3. **Group content system + problem research:** use the [group brief](/projects/group) to investigate a course problem, sources and shared workflow. The technical guide also supports your team's architecture choice.
+
+Research is preparation within each deliverable. [Three-deliverable checklist by milestone](/course/milestones).
