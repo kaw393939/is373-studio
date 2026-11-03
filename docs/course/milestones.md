@@ -30,7 +30,9 @@ This 25/25/25/25 rubric applies prospectively to these project reviews and final
 
 ## How to submit
 
-Use the matching published Canvas review box. Individual: submit your record/repository and current hosted link. Group: each member submits the shared record/repository and demo link plus their own contribution note. Link the real issue/change/check evidence; do not submit instructor templates as your work.
+Use the matching published Canvas review box. Individual: submit your record/repository and current hosted link. At Plan, an existing hosted link is optional: label your local setup or planned URL clearly. A working hosted foundation is required at Build. Group: each member submits the shared record/repository, their own contribution note, and a demo link if one exists; label unbuilt or local work honestly at Plan. Link the real issue/change/check evidence; do not submit instructor templates as your work.
+
+The final gradebook assessment date is **Dec 18, 8:30 a.m. Eastern**, when Demo Day begins. Finals use Canvas No Submission assessments; no additional upload or report is due that morning.
 
 Final assessment reuses your Improve links and Demo Day explanation; no second final report. Keep links current and notify the instructor in Canvas if they change. Individual final assesses portfolio plus RAG together; group final assesses the shared content system and each person's contribution.
 
