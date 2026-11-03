@@ -22,4 +22,4 @@ Every member contributes meaningful, comparable **design, development and QA** w
 
 This is an example split, not proof of equal effort. Adjust it when tasks differ. Keep one shared record and name each person's actual work. A fictional customer agent can support questions; it cannot substitute for a real teammate or human peer review.
 
-[Two filled group records](/examples/group) · [Collaboration routine](/process/collaboration) · [Dates](/course/section-001).
+[Run the complete Content Desk example](/examples/content-desk): accounts, private drafts, publication and a checked import workflow. The following are earlier, partial records: [Two filled group records](/examples/group) · [Collaboration routine](/process/collaboration) · [Dates](/course/section-001).

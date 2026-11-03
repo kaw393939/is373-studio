@@ -1,28 +1,37 @@
-# Two projects. One familiar process.
+# Keep building. Show a useful result.
 
-You already have a server, an app and a development process to work from. Continue those projects instead of restarting.
+**Continue the server and app you already started.** Open [your next-class card](/course/section-001#before-next-class) for the task, points and deadline.
 
-| Your work | A small useful result | Start here |
-| --- | --- | --- |
-| **Individual** | A role-based content app: someone drafts an item and someone authorized reviews/publishes it. | [Individual project](/projects/individual) |
-| **Group** | One content pipeline: extract a small input, transform it and load a reviewable result. | [Group project](/projects/group) |
+## Your two projects
 
-The project directions build on the published Studios. **The new end-of-term scope and dates are planned until Canvas posts them.** The existing November 6 Studio deadlines do not change.
+| Make this | What you can demonstrate |
+| --- | --- |
+| **[Individual content app](/projects/individual)** | An author saves a draft; an authorized reviewer publishes it. Accounts, roles and data work on the server. |
+| **[Group content workflow](/projects/group)** | A small set of inputs becomes a useful result someone can review. Each person builds and checks meaningful work. |
 
-<ProcessFlow />
+[Run the complete content example](/examples/content-desk). Save a draft, publish it and import the same fixtures twice to see what changes.
+
+## This week
+
+Finish the current Server and App Studios: **100 points each, due Nov 6, 11:59 p.m. Eastern**. Continue one checkpoint, show the result to a classmate and keep the change/check links in your existing record. [Current tasks](/projects/studios).
 
 ## How to manage the work
 
-Keep **one evolving record per project**. Reuse your SPEC, reviewed LEARNING, repository, issue/PR history and actual checks. [Copy the short record](/templates/project-record).
+We introduce a small task → next class you work, get feedback and improve → hand in the current work as the next step begins. Continue the same repositories and records.
 
-At the first class, we introduce a small task and start it. At the next class, bring progress, let another student try it and use a GitHub issue to track useful feedback. Submit the current record/links as the next step begins. Follow the published attendance and accommodation policies; class participation is part of this work.
+**Why it matters:** you can explain a working system, who can access it and how data moves through it. These make useful project stories for software, implementation and FDE conversations. [Career connection](/career/fde).
 
-Compare **two manageable options**, not two unrelated products. They may share content, data and code. Your choice should answer a real question: is the task easier to find, understand or complete?
+<details>
+<summary>Later stages, evidence and finishing dates</summary>
+
+Compare two manageable approaches to the same task. Build one useful path, check it and improve from real feedback. Keep the source, actual contribution and checks in one evolving record per project. [What to hand in](/course/milestones).
 
 ## What counts as evidence?
 
-A running feature, a meaningful test, your explanation and a delivery claim are different things. Show what you actually checked and name its limits. AI can help build and test; it cannot invent your observations or a peer's feedback.
+Show the behavior you checked and name what remains unfinished. AI can help build and test; your explanations and peer observations describe your actual work.
 
-The checked release on December 3 is a planned delivery handoff between Build and Improve. It is not another project or a replacement rubric. December 8/10 are planned protected classes for finishing, real peer review, fixes and rehearsal.
+Later project dates and final rubrics remain planned until Canvas posts them. The checked release on Dec 3 is a planned Build-to-Improve handoff; Dec 8/10 are protected finishing/review classes. [Dates](/course/schedule) · [Demo Day](/demo-days).
 
-[Your class card and dates](/course/section-001) · [Two examples per project](/examples/) · [Collaborate and review](/process/collaboration).
+App Studio starts locally. A later deployment uses the existing server when agreed; its current assignment does not require deployment.
+
+</details>

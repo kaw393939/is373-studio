@@ -8,7 +8,8 @@
         "date": "2026-11-06",
         "time": "11:59 p.m.",
         "status": "posted",
-        "assignmentId": 767933
+        "assignmentId": 767933,
+        "points": 100
       },
       {
         "key": "app-studio",
@@ -16,7 +17,8 @@
         "date": "2026-11-06",
         "time": "11:59 p.m.",
         "status": "posted",
-        "assignmentId": 767934
+        "assignmentId": 767934,
+        "points": 100
       },
       {
         "key": "individual-plan",
@@ -80,8 +82,8 @@
         "date": "2026-11-03",
         "label": "Tue Nov 3 · Continue current Studios",
         "bring": "Existing hosting/app repositories, SPEC/LEARNING and one actual result.",
-        "work": "Locate your next Studio checkpoint; revisit the small group content problem.",
-        "review": "A classmate asks what one actual result proves and what remains untested.",
+        "work": "Continue the next checkpoint in your Server or App Studio. Try the visible result yourself.",
+        "review": "Show a classmate what works; ask them to try one task and tell you where they get stuck.",
         "update": "Correct your existing record; do not create a duplicate baseline report.",
         "due": [],
         "next": [
@@ -96,14 +98,15 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": "Both existing Studio deadlines are posted for Friday Nov 6 at 11:59 p.m."
+        "note": "Both existing Studio deadlines are posted for Friday Nov 6 at 11:59 p.m.",
+        "win": "Get your calculator online and your local sign-in and roles working."
       },
       {
         "date": "2026-11-05",
         "label": "Thu Nov 5 · Studio workshop and groups",
         "bring": "Current Studio progress, errors/checks and a feasible group ETL idea.",
-        "work": "Work on the posted lessons; confirm group members and a small content need.",
-        "review": "Try a peer task; record a useful issue and response.",
+        "work": "Continue the next checkpoint in your Server or App Studio. Try the visible result yourself.",
+        "review": "Show a classmate what works; ask them to try one task and tell you where they get stuck.",
         "update": "Keep actual checks, observations and help received in the existing files.",
         "due": [],
         "next": [
@@ -118,7 +121,8 @@
           "link": "/projects/studios",
           "text": "Posted submission checklist"
         },
-        "note": "The two separate Studio submissions remain due Nov 6. App Studio does not require deployment."
+        "note": "The two separate Studio submissions remain due Nov 6. App Studio does not require deployment.",
+        "win": "Get your calculator online and your local sign-in and roles working."
       },
       {
         "date": "2026-11-10",
@@ -140,7 +144,8 @@
           "link": "/examples/group",
           "text": "Filled group plans"
         },
-        "note": "The next checkpoints are planned targets until Canvas posts their criteria and submission boxes."
+        "note": "The next checkpoints are planned targets until Canvas posts their criteria and submission boxes.",
+        "win": "Turn a staff or reader need into one small workflow you can build."
       },
       {
         "date": "2026-11-12",
@@ -162,7 +167,8 @@
           "link": "/examples/individual",
           "text": "Filled individual plans"
         },
-        "note": ""
+        "note": "",
+        "win": "Turn a staff or reader need into one small workflow you can build."
       },
       {
         "date": "2026-11-17",
@@ -187,7 +193,8 @@
           "link": "/examples/group",
           "text": "Group example"
         },
-        "note": "All new handoffs remain planned until posted in Canvas."
+        "note": "All new handoffs remain planned until posted in Canvas.",
+        "win": "Turn a staff or reader need into one small workflow you can build."
       },
       {
         "date": "2026-11-19",
@@ -209,7 +216,8 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": ""
+        "note": "",
+        "win": "Show content moving from input to a useful reviewed result."
       },
       {
         "date": "2026-11-24",
@@ -234,7 +242,8 @@
           "link": "/examples/group",
           "text": "Group example"
         },
-        "note": "No class Thursday Nov 26. Checked release is a planned delivery handoff, not a retroactive App Studio requirement."
+        "note": "No class Thursday Nov 26. Checked release is a planned delivery handoff, not a retroactive App Studio requirement.",
+        "win": "Show content moving from input to a useful reviewed result."
       },
       {
         "date": "2026-12-01",
@@ -256,7 +265,8 @@
           "link": "/examples/group",
           "text": "Group release notes"
         },
-        "note": ""
+        "note": "",
+        "win": "Run a known version and explain how another person can use it."
       },
       {
         "date": "2026-12-03",
@@ -281,7 +291,8 @@
           "link": "/examples/individual",
           "text": "Individual improvement notes"
         },
-        "note": "Dec 8/10 are protected finishing/review classes; no new topic."
+        "note": "Dec 8/10 are protected finishing/review classes; no new topic.",
+        "win": "Run a known version and explain how another person can use it."
       },
       {
         "date": "2026-12-08",
@@ -303,7 +314,8 @@
           "link": "/examples/group",
           "text": "Group improvement example"
         },
-        "note": "No new topic, stack or feature. Final readiness Dec 10 at 11:59 p.m. is a planned target."
+        "note": "No new topic, stack or feature. Final readiness Dec 10 at 11:59 p.m. is a planned target.",
+        "win": "Show a working system, an improvement and your own contribution."
       },
       {
         "date": "2026-12-10",
@@ -325,7 +337,8 @@
           "link": "/examples/student-walkthrough",
           "text": "Walkthrough and limits"
         },
-        "note": "Planned final readiness is tonight at 11:59 p.m.; this is not a deadline before class. Canvas will confirm actual submissions."
+        "note": "Planned final readiness is tonight at 11:59 p.m.; this is not a deadline before class. Canvas will confirm actual submissions.",
+        "win": "Show a working system, an improvement and your own contribution."
       },
       {
         "date": "2026-12-18",
@@ -344,7 +357,8 @@
           "link": "/course/sources",
           "text": "Confirmed facts and delivery status"
         },
-        "note": "Posted time: 8:30–11 a.m. Eastern. Follow Canvas for confirmed delivery/joining arrangements."
+        "note": "Posted time: 8:30–11 a.m. Eastern. Follow Canvas for confirmed delivery/joining arrangements.",
+        "win": "Show a working system, an improvement and your own contribution."
       }
     ]
   }

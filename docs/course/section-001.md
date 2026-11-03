@@ -6,6 +6,11 @@
 
 <ClassWorkCard section="001" />
 
+Open the linked task and one example. Bring your progress to class; keep using the same project record.
+
+<details>
+<summary>Full class plan, dates and course notes</summary>
+
 Read the card for your date, open its guide and use one example. You do not need to read every page. Keep the same individual record and shared group record.
 
 ## Current Studios: posted
@@ -39,3 +44,5 @@ This is a delivery handoff between Build and Improve, not another project. It do
 ## Keep the handoff small
 
 Use the existing record link, current site/repository, relevant issues/checks and a short change/open-question note. Grade claims depend on the posted rubric. Public examples and AI roleplay cannot replace a real person's contribution, peer review or explanation.
+
+</details>

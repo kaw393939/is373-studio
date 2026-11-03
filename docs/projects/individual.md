@@ -24,4 +24,4 @@ The later checked-release target is a separate prospective handoff. **App Studio
 | A few meaningful behavior/permission checks | Claims of complete production security |
 | One real observed improvement | Invented user interviews or conversion claims |
 
-[Two filled records and practice feedback](/examples/individual) · [Copy the project record](/templates/project-record) · [Your dates](/course/section-001).
+[Run the complete Content Desk example](/examples/content-desk): accounts, private drafts, publication and a checked import workflow. The following are earlier, partial records: [Two filled records and practice feedback](/examples/individual) · [Copy the project record](/templates/project-record) · [Your dates](/course/section-001).

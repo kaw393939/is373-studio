@@ -2,36 +2,38 @@
 layout: home
 hero:
   name: IS373 Studio
-  text: Content. Checks. Delivery.
-  tagline: Keep your current server and app work growing into a small content system you can test, review and explain.
+  text: Make it work. Put it to use.
+  tagline: Run software people can use, control who can change it, and turn information into a useful result.
   actions:
     - theme: brand
-      text: Find my next class
+      text: My next class
       link: /course/section-001#before-next-class
     - theme: alt
-      text: See the whole plan
-      link: /course/overview
+      text: See a working content app
+      link: /examples/content-desk
 features:
-  - title: Your individual application
-    details: Continue the app you already built. Make one useful content task work with clear roles and checks.
+  - title: Your individual app
+    details: Continue your app. Give an author and reviewer a useful draft-to-publish workflow.
     link: /projects/individual
     linkText: See the individual project
-  - title: Your group content workflow
-    details: Turn a small input into a useful, reviewable result. Share design, development and QA fairly.
+  - title: Your group workflow
+    details: Turn a small set of sources into a useful result someone can review. Share the work and checks.
     link: /projects/group
     linkText: See the group project
   - title: Your current Studios
-    details: Server Studio and App Studio keep their November 6 deadline and existing requirements. Reuse their evidence.
+    details: Finish your public calculator and local accounts app. Keep the server and app you already started.
     link: /projects/studios
-    linkText: Continue the current Studios
+    linkText: Continue the current task
 ---
 
-**Section 001 · Tuesday/Thursday, 1–2:20 p.m. · GITC 3600.** [Open your class card](/course/section-001#before-next-class).
+## This week: finish the current Studios
 
-**Posted or planned?** Both existing Studios are due **November 6, 2026, 11:59 p.m. Eastern**. Later Plan, Build, release and final-readiness dates are **planning targets until Canvas posts them**. Canvas holds official assignments, grades and private questions.
+**Server Studio and App Studio are each 100 points, due Nov 6 at 11:59 p.m. Eastern.** Open [your next-class card](/course/section-001#before-next-class), continue the next checkpoint, and show a classmate the result. App Studio starts locally.
 
-<ProcessFlow />
+The existing rubric is **40: it works · 35: plan, checks and issue/PR evidence · 25: your explanation**. Submit each repository through its Canvas assignment.
 
-First class: meet the task and start. Next class: bring progress, try a peer's task, record an issue and improve it. Submit as the next step begins, then reuse that work. [See the steps](/course/milestones) · [Try one example](/examples/).
+**See the destination:** [run Content Desk](/examples/content-desk)—a real account-based draft/review/publish app with a small import workflow.
 
-**Demo Day:** December 18, 8:30–11 a.m. Eastern. Protected finishing/review classes are planned for December 8/10. Follow Canvas for confirmed delivery details. [Prepare your demo](/demo-days).
+**Why it matters:** you can demonstrate useful software, explain access and data decisions, and show how you checked delivery.
+
+[The whole plan](/course/overview) · [What to hand in](/course/milestones) · [Examples](/examples/). Canvas confirms later assignment dates and points.
