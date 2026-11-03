@@ -2,38 +2,33 @@
 layout: home
 hero:
   name: IS373 Studio
-  text: Make it work. Put it to use.
-  tagline: Run software people can use, control who can change it, and turn information into a useful result.
+  text: Research, build, host and explain
+  tagline: A career-informed portfolio, your own RAG chat and a shared content system.
   actions:
     - theme: brand
       text: My next class
       link: /course/section-001#before-next-class
     - theme: alt
-      text: See a working content app
-      link: /examples/content-desk
+      text: Student handouts
+      link: /handouts/
 features:
-  - title: Your individual app
-    details: Continue your app. Give an author and reviewer a useful draft-to-publish workflow.
+  - title: Your career-informed portfolio
+    details: Research AI-related roles and design your hosted site around the reader and evidence.
+    link: /projects/portfolio
+  - title: Your individual RAG
+    details: Import content and retrieve evidence with vector, graph or both. Demonstrate a working hosted chat.
     link: /projects/individual
-    linkText: See the individual project
-  - title: Your group workflow
-    details: Turn a small set of sources into a useful result someone can review. Share the work and checks.
+  - title: Your group content system
+    details: Address a course problem, justify the architecture and share meaningful design, development and checks.
     link: /projects/group
-    linkText: See the group project
-  - title: Your current Studios
-    details: Finish your public calculator and local accounts app. Keep the server and app you already started.
-    link: /projects/studios
-    linkText: Continue the current task
 ---
 
-## This week: finish the current Studios
+## Today: start the research and find a partner
 
-**Server Studio and App Studio are each 100 points, due Nov 6 at 11:59 p.m. Eastern.** Open [your next-class card](/course/section-001#before-next-class), continue the next checkpoint, and show a classmate the result. App Studio starts locally.
+Bring current Studio progress, one job description and a possible content problem. Start the [career/portfolio research](/handouts/career-research) and [vector/graph/RAG investigation](/handouts/database-rag-research). You do not need completed research or a RAG implementation today.
 
-The existing rubric is **40: it works · 35: plan, checks and issue/PR evidence · 25: your explanation**. Submit each repository through its Canvas assignment.
+**Existing Server and App Studios remain due Nov 6 at 11:59 p.m. Eastern, 100 points each. App Studio stays local.** [Original Studio scope](/projects/studios).
 
-**See the destination:** [run Content Desk](/examples/content-desk)—a real account-based draft/review/publish app with a small import workflow.
+Research Nov 10/12; Plan Nov 17; Build Nov 24; checked release Dec 3; Improve/final readiness Dec 10. Dec 8/10 are protected for fixes and rehearsal. Demo Day: Dec 18, 8:30-11 a.m. Eastern.
 
-**Why it matters:** you can demonstrate useful software, explain access and data decisions, and show how you checked delivery.
-
-[The whole plan](/course/overview) · [What to hand in](/course/milestones) · [Examples](/examples/). Canvas confirms later assignment dates and points.
+[The whole plan](/course/overview) · [Dates and submissions](/course/milestones) · [Examples and their limits](/examples/). Canvas carries official deadlines, submissions and grades.

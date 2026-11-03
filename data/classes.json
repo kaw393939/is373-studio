@@ -22,92 +22,108 @@
       },
       {
         "key": "individual-plan",
-        "title": "Individual Plan",
+        "title": "Portfolio and RAG Plan",
         "date": "2026-11-17",
         "time": "1 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769188,
+        "points": 100
       },
       {
         "key": "group-plan",
-        "title": "Group Plan",
+        "title": "Group content system Plan",
         "date": "2026-11-17",
         "time": "1 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769189,
+        "points": 100
       },
       {
         "key": "individual-build",
-        "title": "Individual Build",
+        "title": "Portfolio and RAG Build",
         "date": "2026-11-24",
         "time": "1 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769190,
+        "points": 100
       },
       {
         "key": "group-build",
-        "title": "Group Build",
+        "title": "Group content system Build",
         "date": "2026-11-24",
         "time": "1 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769191,
+        "points": 100
       },
       {
         "key": "individual-release",
-        "title": "Individual checked release",
+        "title": "Portfolio and RAG checked release",
         "date": "2026-12-03",
         "time": "1 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769192,
+        "points": 100
       },
       {
         "key": "group-release",
-        "title": "Group checked release",
+        "title": "Group content system checked release",
         "date": "2026-12-03",
         "time": "1 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769193,
+        "points": 100
       },
       {
         "key": "individual-improve",
-        "title": "Individual final readiness",
+        "title": "Portfolio and RAG final readiness",
         "date": "2026-12-10",
         "time": "11:59 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769194,
+        "points": 100
       },
       {
         "key": "group-improve",
-        "title": "Group final readiness",
+        "title": "Group content system final readiness",
         "date": "2026-12-10",
         "time": "11:59 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769195,
+        "points": 100
       }
     ],
     "classes": [
       {
         "date": "2026-11-03",
-        "label": "Tue Nov 3 · Continue current Studios",
-        "bring": "Existing hosting/app repositories, SPEC/LEARNING and one actual result.",
-        "work": "Continue the next checkpoint in your Server or App Studio. Try the visible result yourself.",
-        "review": "Show a classmate what works; ask them to try one task and tell you where they get stuck.",
-        "update": "Correct your existing record; do not create a duplicate baseline report.",
+        "label": "Tue Nov 3 \u00b7 Projects, research and partners",
+        "bring": "Current Studio repositories, a working result or exact blocker, one job posting and a content idea.",
+        "work": "Explain the three deliverables; begin career/technical research and meet prospective partners.",
+        "review": "Compare interests and questions; try one current Studio task.",
+        "update": "Start portfolio/career and RAG sections in your individual record and a shared group direction.",
         "due": [],
         "next": [
           "server-studio",
           "app-studio"
         ],
         "guide": {
-          "link": "/projects/studios",
-          "text": "Current Studio requirements"
+          "link": "/handouts/",
+          "text": "Student research handouts"
         },
         "example": {
-          "link": "/examples/individual",
-          "text": "Individual example"
+          "link": "/templates/project-record",
+          "text": "Research and project record"
         },
-        "note": "Both existing Studio deadlines are posted for Friday Nov 6 at 11:59 p.m.",
-        "win": "Get your calculator online and your local sign-in and roles working."
+        "note": "Both existing Studios remain due Nov 6, 11:59 p.m.; App Studio is local. Bring initial ideas, not completed research.",
+        "win": "Understand how your portfolio, RAG and group system connect."
       },
       {
         "date": "2026-11-05",
-        "label": "Thu Nov 5 · Studio workshop and groups",
-        "bring": "Current Studio progress, errors/checks and a feasible group ETL idea.",
-        "work": "Continue the next checkpoint in your Server or App Studio. Try the visible result yourself.",
-        "review": "Show a classmate what works; ask them to try one task and tell you where they get stuck.",
-        "update": "Keep actual checks, observations and help received in the existing files.",
+        "label": "Thu Nov 5 \u00b7 Studio and research workshop",
+        "bring": "Studio progress, initial job/technical sources and a possible group problem.",
+        "work": "Resolve Studio blockers and narrow your research questions.",
+        "review": "Try a real peer task and compare partner availability and interests.",
+        "update": "Keep actual Studio evidence and initial research sources.",
         "due": [],
         "next": [
           "server-studio",
@@ -121,62 +137,62 @@
           "link": "/projects/studios",
           "text": "Posted submission checklist"
         },
-        "note": "The two separate Studio submissions remain due Nov 6. App Studio does not require deployment.",
-        "win": "Get your calculator online and your local sign-in and roles working."
+        "note": "Both existing Studios remain due Nov 6, 11:59 p.m.; App Studio is local. Bring initial ideas, not completed research.",
+        "win": "Finish the existing Studios and leave with a research direction."
       },
       {
         "date": "2026-11-10",
-        "label": "Tue Nov 10 · Plan the next small workflow",
-        "bring": "Current app result, a user task and approved/synthetic group source ideas.",
-        "work": "Compare two approaches; agree reader, data, roles and success checks.",
-        "review": "Can a peer explain the main task and identify an assumption?",
-        "update": "Continue individual/shared records; assign comparable work and different reviewers.",
+        "label": "Tue Nov 10 \u00b7 Career and database/RAG research",
+        "bring": "Employer descriptions, permitted content and initial vector/graph/RAG notes.",
+        "work": "Connect career findings to portfolio design; model content import and retrieval.",
+        "review": "Compare two career directions and vector/graph options using example questions.",
+        "update": "Record sources, target reader, architecture hypothesis and group problem.",
         "due": [],
         "next": [
           "individual-plan",
           "group-plan"
         ],
         "guide": {
-          "link": "/process/specifications",
-          "text": "Write a small plan"
+          "link": "/handouts/",
+          "text": "Student research handouts"
         },
         "example": {
-          "link": "/examples/group",
-          "text": "Filled group plans"
+          "link": "/templates/project-record",
+          "text": "Research and project record"
         },
-        "note": "The next checkpoints are planned targets until Canvas posts their criteria and submission boxes.",
-        "win": "Turn a staff or reader need into one small workflow you can build."
+        "note": "Canvas contains the official instructions and submission links. No duplicate weekly report.",
+        "win": "Choose a reader and explain how content becomes an answer."
       },
       {
         "date": "2026-11-12",
-        "label": "Thu Nov 12 · Plan workshop",
-        "bring": "Two approaches, three to five stories and a proposed work split.",
-        "work": "Refine scope and checks; keep a small source → transform → output path.",
-        "review": "A peer checks whether each story can pass or fail; respond to their issue.",
-        "update": "Choose a direction with a reason; update the same records.",
+        "label": "Thu Nov 12 \u00b7 Research and Plan workshop",
+        "bring": "Career comparison, portfolio outline, technical explanation and group workflow.",
+        "work": "Refine sources, scope, database choice and evaluation questions.",
+        "review": "A peer checks your assumptions, stories and expected evidence.",
+        "update": "Update the same records; name group owners and different reviewers.",
         "due": [],
         "next": [
           "individual-plan",
           "group-plan"
         ],
         "guide": {
-          "link": "/process/collaboration",
-          "text": "Review routine"
+          "link": "/handouts/",
+          "text": "Student research handouts"
         },
         "example": {
-          "link": "/examples/individual",
-          "text": "Filled individual plans"
+          "link": "/templates/project-record",
+          "text": "Research and project record"
         },
-        "note": "",
-        "win": "Turn a staff or reader need into one small workflow you can build."
+        "note": "Canvas contains the official instructions and submission links. No duplicate weekly report.",
+        "win": "Prepare a manageable portfolio/RAG and group plan."
       },
       {
         "date": "2026-11-17",
-        "label": "Tue Nov 17 · Planned Plan handoff; start Build",
-        "bring": "Chosen plans, current repositories and working starter/setup.",
-        "work": "Use the plan to build one main task; integrate small changes early.",
-        "review": "Check task owners, reviewers and observable expected results.",
-        "update": "Link current work and actual contributions; label unfinished behavior.",
+        "label": "Tue Nov 17 \u00b7 Plan handoff; start Build",
+        "bring": "Portfolio/RAG plan, group plan and working project setup.",
+        "work": "Build a small hosted portfolio foundation and end-to-end retrieval/chat journey; integrate group slices.",
+        "review": "Check stories, source permission, owners and actual expected results.",
+        "update": "Link current work, choices and next action.",
         "due": [
           "individual-plan",
           "group-plan"
@@ -193,16 +209,16 @@
           "link": "/examples/group",
           "text": "Group example"
         },
-        "note": "All new handoffs remain planned until posted in Canvas.",
-        "win": "Turn a staff or reader need into one small workflow you can build."
+        "note": "Canvas contains the official instructions and submission links. No duplicate weekly report.",
+        "win": "Begin a complete small journey."
       },
       {
         "date": "2026-11-19",
-        "label": "Thu Nov 19 · Build and cross-review",
-        "bring": "A/B workflow views and a small runnable slice.",
-        "work": "Try valid, rejected and relevant permission cases; integrate group slices.",
-        "review": "A real peer attempts the same task without coaching; partners cross-review.",
-        "update": "Record the observation, response, chosen approach and actual checks.",
+        "label": "Thu Nov 19 \u00b7 Build and cross-review",
+        "bring": "Hosted foundation, import/retrieval outputs and a runnable group slice.",
+        "work": "Integrate real retrieval/generation and source references; check group input-to-output behavior.",
+        "review": "A peer attempts a task without coaching; partners cross-review.",
+        "update": "Record actual checks, issue responses and architecture observations.",
         "due": [],
         "next": [
           "individual-build",
@@ -216,16 +232,16 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": "",
-        "win": "Show content moving from input to a useful reviewed result."
+        "note": "Canvas contains the official instructions and submission links. No duplicate weekly report.",
+        "win": "Make the main task work across the system."
       },
       {
         "date": "2026-11-24",
-        "label": "Tue Nov 24 · Planned Build handoff; prepare release",
-        "bring": "Current builds, fixture inputs and open issues.",
-        "work": "Agree checked-release and handoff evidence before Thanksgiving.",
-        "review": "Can someone distinguish local tests, CI and actual hosted operation?",
-        "update": "Keep the chosen revision/setup and a small next action.",
+        "label": "Tue Nov 24 \u00b7 Build handoff; prepare release",
+        "bring": "Hosted portfolio/RAG, integrated group work, fixtures and actual checks.",
+        "work": "Review working journeys and establish release checks before recess.",
+        "review": "Distinguish local, CI and actual hosted results.",
+        "update": "Keep version/setup and a bounded next fix.",
         "due": [
           "individual-build",
           "group-build"
@@ -242,16 +258,16 @@
           "link": "/examples/group",
           "text": "Group example"
         },
-        "note": "No class Thursday Nov 26. Checked release is a planned delivery handoff, not a retroactive App Studio requirement.",
-        "win": "Show content moving from input to a useful reviewed result."
+        "note": "No class Nov 26 and no new hand-in during Thanksgiving recess.",
+        "win": "Have a small hosted system working before December."
       },
       {
         "date": "2026-12-01",
-        "label": "Tue Dec 1 · Checked-release workshop",
-        "bring": "Chosen revision, setup, actual check results and current limits.",
-        "work": "Reproduce the agreed run and improve delivery evidence on existing infrastructure.",
-        "review": "A peer reproduces a task and questions what one check establishes.",
-        "update": "Resolve real failures; keep local/CI/hosted claims separate.",
+        "label": "Tue Dec 1 \u00b7 Hosted release workshop",
+        "bring": "Working URLs, chosen revision, query evaluations and remaining failures.",
+        "work": "Check hosting, persistence, repeat imports, sources and answer quality.",
+        "review": "A peer reproduces a task and questions the evidence.",
+        "update": "Fix observed failures and rerun the same checks.",
         "due": [],
         "next": [
           "individual-release",
@@ -265,16 +281,16 @@
           "link": "/examples/group",
           "text": "Group release notes"
         },
-        "note": "",
-        "win": "Run a known version and explain how another person can use it."
+        "note": "Canvas contains the official instructions and submission links. No duplicate weekly report.",
+        "win": "Prepare a checked hosted release."
       },
       {
         "date": "2026-12-03",
-        "label": "Thu Dec 3 · Planned release handoff",
-        "bring": "Current records, working links and the next real peer-review task.",
-        "work": "Review the chosen release and prepare final walkthroughs and rehearsal.",
-        "review": "Check version identity, setup, source trace and remaining issues.",
-        "update": "Name the actual contribution and next fix; no new project.",
+        "label": "Thu Dec 3 \u00b7 Checked-release handoff",
+        "bring": "Hosted systems, evaluation, setup and current records.",
+        "work": "Review releases and prepare final feedback tasks and case studies.",
+        "review": "Check source support, permissions, version identity and contributions.",
+        "update": "End planned feature development; identify repairs and rehearsal needs.",
         "due": [
           "individual-release",
           "group-release"
@@ -291,16 +307,16 @@
           "link": "/examples/individual",
           "text": "Individual improvement notes"
         },
-        "note": "Dec 8/10 are protected finishing/review classes; no new topic.",
-        "win": "Run a known version and explain how another person can use it."
+        "note": "Canvas contains the official instructions and submission links. No duplicate weekly report.",
+        "win": "Release the agreed scope and prepare to improve it."
       },
       {
         "date": "2026-12-08",
-        "label": "Tue Dec 8 · Protected work and peer reviews",
-        "bring": "Both working projects, one task per review and open issues.",
-        "work": "Catch up, finish workflows and make meaningful feedback-driven changes.",
-        "review": "A real peer tries each task; partners take comparable design/development/QA roles.",
-        "update": "Link issue → response → change → retest and current contributions.",
+        "label": "Tue Dec 8 \u00b7 Protected repair and peer review",
+        "bring": "Portfolio, RAG and group demo links, open issues and realistic peer tasks.",
+        "work": "Repair and improve existing work; update case studies from actual evidence.",
+        "review": "Real peers try the deliverables; group partners cross-review comparable work.",
+        "update": "Link observation, issue, meaningful change and retest.",
         "due": [],
         "next": [
           "individual-improve",
@@ -314,16 +330,16 @@
           "link": "/examples/group",
           "text": "Group improvement example"
         },
-        "note": "No new topic, stack or feature. Final readiness Dec 10 at 11:59 p.m. is a planned target.",
-        "win": "Show a working system, an improvement and your own contribution."
+        "note": "Protected finishing/rehearsal time. No new stack, tool or planned feature.",
+        "win": "Improve the same scope and make your contribution clear."
       },
       {
         "date": "2026-12-10",
-        "label": "Thu Dec 10 · Protected finish and rehearse",
-        "bring": "Final links, review evidence, setup and a short demo story.",
-        "work": "Finish fixes, retest and rehearse both projects and each contribution.",
-        "review": "Verify links and one meaningful improvement; state unfinished work honestly.",
-        "update": "Keep the same URLs current for the Dec 18 demo.",
+        "label": "Thu Dec 10 \u00b7 Protected finish and rehearsal",
+        "bring": "Final links, checks, case studies and a short demonstration.",
+        "work": "Finish repairs, retest and rehearse all three deliverables.",
+        "review": "Verify links and ask each person to explain a decision and contribution.",
+        "update": "Submit Improve links by 11:59 p.m.; keep them current for Dec 18.",
         "due": [],
         "next": [
           "individual-improve",
@@ -337,16 +353,16 @@
           "link": "/examples/student-walkthrough",
           "text": "Walkthrough and limits"
         },
-        "note": "Planned final readiness is tonight at 11:59 p.m.; this is not a deadline before class. Canvas will confirm actual submissions.",
-        "win": "Show a working system, an improvement and your own contribution."
+        "note": "Protected finishing/rehearsal time. No new stack, tool or planned feature.",
+        "win": "Finish a truthful, reproducible demonstration."
       },
       {
         "date": "2026-12-18",
-        "label": "Fri Dec 18 · Posted Demo Day / final period",
-        "bring": "Working project links, chosen revision, setup and contribution evidence.",
-        "work": "Demonstrate the user task, actual check and real improvement.",
-        "review": "Each person explains their own choices and work.",
-        "update": "Record any instructor-requested follow-up without changing the historical evidence.",
+        "label": "Fri Dec 18 \u00b7 Demo Day / final period",
+        "bring": "Hosted portfolio/RAG and group system, chosen revision and contribution evidence.",
+        "work": "Demonstrate the career-informed portfolio, RAG and group problem/workflow.",
+        "review": "Each person explains their own decisions, checks, improvement and limits.",
+        "update": "Keep historical evidence and record instructor-requested follow-up.",
         "due": [],
         "next": [],
         "guide": {
@@ -357,8 +373,8 @@
           "link": "/course/sources",
           "text": "Confirmed facts and delivery status"
         },
-        "note": "Posted time: 8:30–11 a.m. Eastern. Follow Canvas for confirmed delivery/joining arrangements.",
-        "win": "Show a working system, an improvement and your own contribution."
+        "note": "8:30-11 a.m. Eastern. Follow Canvas for confirmed delivery/joining details.",
+        "win": "Show useful work and explain how you know it works."
       }
     ]
   }

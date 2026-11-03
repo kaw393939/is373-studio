@@ -1,0 +1,20 @@
+discover roles
+Help me explore FDE, AI engineering, AI product engineering, platform/MLOps, AI security and related roles. My interests are [interests] and my current evidence is [projects/skills]. Suggest three families to investigate, useful search phrases and questions about daily work. Distinguish hypotheses about fit from facts in employer descriptions. Do not invent jobs or claim a title is growing without evidence.
+
+inspect a posting
+@Chrome Read [original employer URL]. Record employer, exact title, date checked, location, level, eligibility, responsibilities and required versus preferred skills. Save a readable screenshot of the relevant sections. Separate what the page says from your interpretation. Mark missing information not stated. Do not apply, create an account, contact anyone or invent my experience.
+
+derive the portfolio plan
+Using my verified job records and actual project evidence, propose a target reader, three responsibility-to-evidence mappings, a site outline and two lightweight design options. Explain each recommendation from the evidence. Separate public portfolio content from private reflection. Do not invent expertise, testimonials, experience or finished features.
+
+scope the research
+Help me investigate RAG for [reader/task] using [permitted content]. Ask about questions, source permission and constraints. Explain import, cleaning, chunking, embeddings, entities/relationships, retrieval and generation. Compare keyword/SQL, vector and graph approaches. Cite current primary documentation. Do not invent sources, numeric embeddings, benchmark results or test runs.
+
+review the choice
+Using my source descriptions, data model and questions, compare vector, graph and a simple baseline. Identify missing source provenance and assumptions. Recommend a bounded experiment for each plausible option. Separate documented capabilities from unexecuted claims about our project. Ask me to explain why I chose the architecture.
+
+examine preparation
+Here is my permitted source text and proposed chunk or graph representation: [evidence]. Identify lost context, broken boundaries, ambiguous entities and missing source locations. Help me compare two choices and design repeat-import/update checks. Do not claim the checks passed unless I provide actual results.
+
+evaluate understanding
+Quiz me one question at a time about our import, chunking, embeddings, graph schema, retrieval and generation. Ask me to trace a real source into an answer and diagnose a failure. Assess results only from my supplied query outputs. Do not invent citations, tests or evidence that an answer is correct.

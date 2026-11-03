@@ -1,5 +1,7 @@
 # Walkthrough: what was checked and what remains
 
+> Reference scope: these earlier content-app examples demonstrate parts of the process. They do not implement the current hosted RAG requirement. Follow the [current portfolio/RAG/group briefs](/course/overview) and [project review rubric](/course/milestones); any practice scores below are historical teaching examples.
+
 **Teaching rehearsal, November 2, 2026.** A typical student's workload and learning have not been measured. The people, clients and peer comments in the worked records are fictional. No student submission, grade or group membership was manufactured.
 
 ## Follow the path
@@ -15,9 +17,9 @@
 | Possible wrong turn | Clarification |
 | --- | --- |
 | “These new dates are already Canvas deadlines.” | Every future checkpoint/card is marked **Planned**; only the two existing Studios have posted assignment links. |
-| “I must deploy App Studio before Nov 6.” | Its published requirement is local; later delivery is a separate proposed step. |
+| “I must deploy App Studio before Nov 6.” | Its published requirement is local; the later hosted project is a separate requirement. |
 | “The static role selector proves authorization.” | Every preview labels the role and browser storage as simulated. Real server-role checks still need separate evidence. |
-| “I need all the AI infrastructure.” | One ETL fixture path is enough for the proposed scope; product AI and paid services are not default requirements. |
+| “I need all the AI infrastructure.” | Start with a small corpus and actual RAG using vector, graph or both. Paid infrastructure and model training are not required. |
 | “A fake customer's answer counts as peer review.” | Roleplay may support questions. Actual people must supply teamwork and peer/change/retest evidence. |
 | “Demo details match IS117.” | IS373's posted demo is Dec 18; delivery mode still needs Canvas clarification. Protected work is Dec 8/10. |
 

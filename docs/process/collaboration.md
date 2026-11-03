@@ -18,7 +18,7 @@
 
 Split small, meaningful slices with comparable effort. Each person makes design decisions, implements work and checks another person's work. Integrate early and adjust the remaining work when effort changes. Commit or issue counts do not prove equal contribution.
 
-Keep observations, decisions and links in the existing project record; no new review essay is needed. Reuse a continuing issue when appropriate, while meeting any posted lesson-specific issue/PR requirements. For the planned final-project process, each project needs real peer feedback, a meaningful change and a retest. AI approval, a fake customer and a simulated partner cannot replace people.
+Keep observations, decisions and links in the existing project record; no new review essay is needed. Reuse a continuing issue when appropriate, while meeting any posted lesson-specific issue/PR requirements. Each deliverable needs real peer feedback, a meaningful change and a retest. AI approval, a fake customer and a simulated partner cannot replace people.
 
 ## Why this feedback style?
 

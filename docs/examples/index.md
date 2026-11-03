@@ -1,5 +1,7 @@
 # See a complete workflow
 
+> Reference scope: these earlier content-app examples demonstrate parts of the process. They do not implement the current hosted RAG requirement. Follow the [current portfolio/RAG/group briefs](/course/overview) and [project review rubric](/course/milestones); any practice scores below are historical teaching examples.
+
 **[Run Content Desk](/examples/content-desk)**: member saves a draft → admin reviews and publishes → visitor reads it. The same small reference imports three synthetic sources into two reviewable drafts.
 
 ## A short review update

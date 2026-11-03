@@ -1,23 +1,16 @@
-# Demo Day: show the useful result
+# Demo Day: explain and demonstrate
 
-**Posted course demo and official final period: Friday, December 18, 2026, 8:30–11 a.m. Eastern.** Follow Canvas for confirmed delivery/joining details. The course home and syllabus currently differ on Zoom versus the listed room; the instructor must clarify that arrangement. No joining link is supplied here.
+**Friday, December 18, 2026, 8:30-11 a.m. Eastern.** Follow Canvas for confirmed delivery/joining details and presentation slots. The syllabus lists CKB 114; confirm arrangements in the announcement before attending.
 
-## Prepare during class
+## Finish before presenting
 
-**December 8 and 10 are planned protected finishing/review/rehearsal classes.** No new topic, stack or feature. Catch up, complete real peer reviews, fix/retest and rehearse.
+Dec 8/10 are protected finishing, feedback, retesting and rehearsal classes. Submit Improve/final readiness by Dec 10 at 11:59 p.m. Keep those record/site URLs current for Demo Day. Finals reuse the Improve evidence and your explanation rather than requiring another report.
 
-Final readiness is **planned for December 10 at 11:59 p.m.** Keep the same site and record URLs current for the demo. The final Canvas submission boxes, grading criteria and presentation-slot lengths are not yet posted.
+## Rehearse three connected deliverables
 
-## A short rehearsal sequence
+1. Portfolio: explain the researched career direction, target reader and evidence you chose to feature.
+2. Individual RAG: show a question, retrieved passages or graph facts, a source-supported answer and an insufficient-evidence case. Explain one content-preparation and architecture decision.
+3. Group: show the chosen problem, input/transformation/retrieval/review/output task and each member's actual contribution.
+4. Show a real peer observation, meaningful improvement and retest. State operating limits and unfinished work accurately.
 
-Use this as practice, not an official slot allocation:
-
-1. Explain the user, problem and main task in one sentence.
-2. Show the individual workflow and one actual check. Name your choice between the two approaches.
-3. Show the group's input → transformation → output and source trace. Each person explains their contribution.
-4. Show one real peer issue, the change and its retest.
-5. State what runs locally, what is actually deployed and what remains unfinished.
-
-Use synthetic demonstration data. Have the chosen revision, repository and setup ready if a live service fails. A recording can explain a historical result; label it with its revision/date rather than claiming the service is currently available.
-
-[Your class plan](/course/section-001) · [Peer-review routine](/process/collaboration) · [Example records](/examples/).
+This is a rehearsal sequence, not a promised slot length. Have the chosen revision, repository, setup and dated fallback screenshots/recording ready. Label recorded behavior honestly if a live service fails. [Rubric](/course/milestones) · [Review routine](/process/collaboration).

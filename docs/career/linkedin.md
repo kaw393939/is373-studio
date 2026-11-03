@@ -30,7 +30,7 @@ These fictional examples illustrate wording, not credentials to copy.
 
 Follow a few employers from your career research and read what their roles require. After a useful NJIT or local event conversation, connect with the shared context and one relevant question. Ask before sending repeated follow-ups. A concise project link is more useful than an unsupported claim of expertise.
 
-Check your profile URL as a visitor; LinkedIn may request sign-in. Use your own profile link, not an edit screen or a fictional draft. You can add these links to the portfolio you already have; no new course portfolio is required here.
+Check your profile URL as a visitor; LinkedIn may request sign-in. Use your own profile link, not an edit screen or a fictional draft. Add suitable links to your career-informed hosted portfolio. Reuse an existing portfolio where appropriate while meeting the current brief.
 
 [LinkedIn's student guide](https://students.linkedin.com/en-us) · [Edit your profile introduction](https://www.linkedin.com/help/linkedin/answer/a547248).
 

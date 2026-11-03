@@ -1,5 +1,7 @@
 # A working content app you can run
 
+> Reference scope: these earlier content-app examples demonstrate parts of the process. They do not implement the current hosted RAG requirement. Follow the [current portfolio/RAG/group briefs](/course/overview) and [project review rubric](/course/milestones); any practice scores below are historical teaching examples.
+
 **Get one useful result:** save a private draft, publish it as an editor, then read it as a visitor. Content Desk has real SQLite accounts, sessions and server-side permissions. Its separate import task turns three synthetic documents into two drafts with their sources attached.
 
 [Download the complete source](/examples/content-desk/content-desk-source.zip). This runs on your computer; GitHub Pages hosts this guide, not the Python server.

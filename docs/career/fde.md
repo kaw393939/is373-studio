@@ -22,7 +22,7 @@ This is a foundation. FDE roles often expect more programming, databases, cloud 
 
 ## Choose a next step
 
-1. Compare two roles using [career exploration](/career/explore).
+1. Read three employer postings and compare two career directions using [career exploration](/career/explore).
 2. Choose one skill gap that your current project can help you address.
 3. Show accurate evidence through [GitHub](/career/github), [LinkedIn](/career/linkedin), and your [résumé](/career/resume).
 

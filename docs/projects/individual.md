@@ -1,27 +1,43 @@
-# Your individual content application
+# Your individual RAG application
 
-**Continue the app you already started.** The next proposed outcome is one useful content workflow using your brand, accounts and server-enforced roles. This direction is planned until Canvas posts the detailed assignment.
+**Build a working RAG chat on your own hosted portfolio website using a vector database, graph database, or both.** Everyone researches both database approaches and explains the choice. Reuse your existing app, server and project records. The portfolio and RAG are connected individual deliverables; the group content system is separate.
 
-A reasonable example: a member saves a plain-text draft; an admin reviews it and publishes it. Keep one content type and one main path. Reuse your existing SPEC, LEARNING, tests, repository and infrastructure.
+## Understand the whole process
 
-## What to work toward
+RAG means retrieval-augmented generation: retrieve relevant external evidence, then give it to a model to help generate an answer. A chat interface alone does not demonstrate retrieval. Show what content entered the system, how you represented it, which evidence came back and how the answer used it.
 
-- A clear visitor, purpose and small content task.
-- Two manageable approaches to the main task, with a reason for the choice. Share content, code and data.
-- Three to five checkable stories; meaningful valid-input, rejected-input and permission checks.
-- Actual server behavior for any authentication, roles or persistence claims. A role selector in a static preview is not security.
-- Real peer feedback, one meaningful change and a retest.
-- Your actual contribution, help received, chosen revision and reproducible setup.
+- Import permitted content; keep a source manifest with document IDs, origin, date/version and permission.
+- Parse, clean and deduplicate. Research chunking and explain how you preserve source locations.
+- Vector path: create chunks, generate real embeddings, store vectors and metadata, embed the question and retrieve similar passages.
+- Graph path: define entities and typed relationships, retain supporting source passages, import them into a graph database and retrieve relevant paths/facts for the question.
+- Combined path: explain how the two retrieval methods contribute different evidence.
+- Generate a source-supported answer, show usable references and handle insufficient evidence honestly.
 
-The later checked-release target is a separate prospective handoff. **App Studio itself remains a local assignment with no deployment requirement.** Use the existing server when delivery is agreed; do not run fresh-server setup over working services.
+All students explain chunking, embeddings and graph modeling in their research. Implement the steps that fit your chosen retrieval architecture; a graph-only project does not need an unused vector index.
 
-## Keep scope useful
+## A manageable first system
 
-| Small enough | Save for later |
+Start with approximately five short permitted documents and five evaluation questions. Include an exact-term question, a paraphrase, a relationship question where appropriate, and an unanswerable question. These are starting-scope guidelines; agree an equivalent corpus/query set with the instructor when the domain differs.
+
+Use real retrieval and generation for the working demo. Record the actual database, embedding model if used, generation model/provider and versions/configuration. Keep credentials on the server. A mocked response can help test the interface but must be labeled and does not establish a working RAG system.
+
+Keep database services private, enforce server-side permissions for import/admin actions, limit public requests and document cost/resource limits. Do not put secrets or private student records in the corpus. A small checked system is enough; paid infrastructure, model training and a production-scale service are not required.
+
+## Evidence to show
+
+| Evidence | What it should establish |
 | --- | --- |
-| One plain-text draft/review/publish flow | A general social network or full CMS clone |
-| Existing member/admin roles | A new identity platform |
-| A few meaningful behavior/permission checks | Claims of complete production security |
-| One real observed improvement | Invented user interviews or conversion claims |
+| Source and import record | Where content came from; stable IDs; repeat import without duplicates; how changed content is handled |
+| Representation | A real chunk plus metadata/embedding configuration, or entities/relationships with source support |
+| Retrieval trace | Question, returned source/chunk IDs or graph paths and what was relevant/missing |
+| Answer evaluation | Expected evidence, actual answer, citation support and an unanswerable case |
+| Hosted operation | Working website/chat, persistent storage, chosen revision and repeatable setup |
+| Improvement | Real peer issue, your response, meaningful change and retest |
 
-[Run the complete Content Desk example](/examples/content-desk): accounts, private drafts, publication and a checked import workflow. The following are earlier, partial records: [Two filled records and practice feedback](/examples/individual) · [Copy the project record](/templates/project-record) · [Your dates](/course/section-001).
+Compare a simple keyword/structured baseline with your selected approach. Compare two bounded design choices such as chunk boundaries, metadata filters, graph schema or answer presentation; one implementation and a documented experiment are sufficient.
+
+## Start here
+
+[Independent database/RAG handout](/handouts/database-rag-research) · [Printable PDF](/handouts/IS373_Vector_Graph_and_RAG_Research.pdf) · [Career-informed portfolio](/projects/portfolio) · [Review dates](/course/section-001).
+
+**The November 6 App Studio remains local with its original scope and rubric.** This later hosted RAG requirement does not change that submission.

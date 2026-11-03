@@ -30,4 +30,4 @@ Keep the full checks and both CI jobs, one completed issue and merged PR per les
 
 **40:** agreed result works. **35:** specification, actual checks and completed issue/PR evidence. **25:** your own decisions, explanations and observations. [Read the exact assignment language](https://njit.instructure.com/courses/70733/assignments).
 
-Use Try → Decide → Build → Check → Keep. AI can help; it must not invent your prediction or observation. Reuse this work as the baseline for the [planned final projects](/course/overview).
+Use Try → Decide → Build → Check → Keep. AI can help; it must not invent your prediction or observation. Reuse this work as the baseline for the [portfolio, RAG and group projects](/course/overview).
