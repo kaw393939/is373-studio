@@ -1,4 +1,4 @@
-# See a complete small example
+# Try a small worked example
 
 These are **four fictional teaching records**, not actual student submissions or real peer interviews. They show Understand → Plan → Build → Improve, choices, checks, practice scores and feedback.
 

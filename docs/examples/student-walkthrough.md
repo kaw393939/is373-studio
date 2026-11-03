@@ -38,3 +38,5 @@ These were agent-operated student-path checks, not a study of real students.
 Followed home → class card → individual record/preview → group record/preview. Checked the December 10 card’s evening target. Saved a synthetic draft as Demo member, switched to Demo admin, and published it in the preview; B retained the same browser queue. Study Brief imported two items, skipped one duplicate and rejected one invalid row; a second import added none, skipped three and rejected one. Synthetic review data was reset afterward.
 
 Fixed: misleading duplicate example navigation, unclear course-specific review wording, public source-link routing, and overgenerous scores for missing server/team evidence. Phone-width import controls, course navigation and career page fit without page-level horizontal overflow. No secure backend, actual hosted service, Canvas submission or human peer session was completed.
+
+**Published-site check:** GitHub Pages navigation and static-preview JavaScript were verified after deployment. The local-link/anchor checks and preview logic checks also passed in GitHub Actions. External employer availability can still change.
