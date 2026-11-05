@@ -41,4 +41,6 @@ The final gradebook assessment date is **Dec 18, 8:30 a.m. Eastern**, when Demo 
 
 Final assessment reuses your Improve links and Demo Day explanation; no second final report. Keep links current and notify the instructor in Canvas if they change. Individual final assesses portfolio plus RAG together; group final assesses the shared content system and each person's contribution.
 
-Course category weights remain Labs 50%, Midterm 25%, Individual Final 12.5%, Group Final 12.5%. [Canvas assignments](https://njit.instructure.com/courses/70733/assignments) control official submissions and dates. [Project record](/templates/project-record).
+The final assignments also require a short PowerPoint: each student prepares their own for the individual work, and each team prepares one shared deck for its group system. See the [Demo Day guide](/demo-days#prepare-the-required-powerpoint) for the story structure. Slots, duration and delivery details follow in Canvas.
+
+The current Canvas assignment groups place Tests, including final project assessments, at 50% of the course grade. General assignments and the individual/group project reviews together make up the other 50%. [Canvas assignments](https://njit.instructure.com/courses/70733/assignments) control the current category weights, official submissions and dates. [Project record](/templates/project-record).

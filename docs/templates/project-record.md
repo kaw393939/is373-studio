@@ -22,7 +22,7 @@ Reader/course problem · source permission · shared workflow · owner/reviewer 
 
 ### Research and baseline
 
-- Individual portfolio: original employer postings/date checked, responsibilities/eligibility, two career directions, chosen reader, existing evidence, gap and dated action. Link the private reflection where appropriate.
+- Individual portfolio: original employer postings/date checked, responsibilities/eligibility, two career directions, chosen reader, existing evidence, gap and dated action. Keep personal reflection private; publish only suitable career goals and the design decisions it informs.
 - Individual RAG: explain vector/graph/RAG, chunking/embeddings/entities, source permission, a sample representation and useful questions.
 - Group: selected course problem, reader, source manifest and source-to-output process.
 - Current Studio result, source/revision, actual checks, help received and next gap.
