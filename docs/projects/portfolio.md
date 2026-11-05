@@ -12,6 +12,8 @@ Keep employer/title, URL, access date, eligibility, location, required versus pr
 
 [Independent career research handout](/handouts/career-research) · [Printable PDF](/handouts/IS373_Career_Research_to_Portfolio.pdf).
 
+Optional leads: [AI Career Atlas](https://kaw393939.github.io/ai-career-research/) ([research repository](https://github.com/kaw393939/ai-career-research)) and the [New York/New Jersey career field guide](https://kaw393939.github.io/is117005-portfolio/). Use them to explore interests and find original employer sources, then make your own comparison and design decisions. Selected examples do not establish current availability or your eligibility.
+
 ## Turn findings into design decisions
 
 Write your target reader and what they should understand or do. Map three employer responsibilities to portfolio evidence. Compare two lightweight page or case-study layouts using the same content, then select one with a reason. You do not need to build two full sites.

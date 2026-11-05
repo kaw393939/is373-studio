@@ -44,4 +44,6 @@ For the research workshop and Plan, explain the process, compare approaches, pre
 
 [Independent database/RAG handout](/handouts/database-rag-research) · [Printable PDF](/handouts/IS373_Vector_Graph_and_RAG_Research.pdf) · [Career-informed portfolio](/projects/portfolio) · [Review dates](/course/section-001).
 
+Optional instructor example: the [IS373 RAG research library](https://github.com/kaw393939/is373-rag/blob/main/docs/research/index.md) and [repository](https://github.com/kaw393939/is373-rag) show research, proposed architecture and planned validation. They contain documentation, not a working RAG app or a mandatory stack. Use the original sources to inform your own bounded specification and actual checks.
+
 **The November 6 App Studio remains local with its original scope and rubric.** This later hosted RAG requirement does not change that submission.

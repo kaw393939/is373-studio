@@ -1,6 +1,6 @@
 # Career Research to Portfolio Design
 
-IS373 | Independent student guide | November 3, 2026
+IS373 | Independent student guide | Updated November 5, 2026
 
 Career research helps you design your individual hosted portfolio. Explore the work behind AI-related titles, choose a provisional direction, and use employer evidence to decide your audience, content, design and learning priorities. Your RAG application and group contribution supply project evidence for that portfolio.
 
@@ -22,6 +22,13 @@ These are search families, not standardized titles or proof of job growth. A pro
 ## First research session
 
 Choose three families that interest you, search for original employer descriptions and save candidate links. Do not narrow your choice based only on salary, company fame or an AI-generated description. Check level and eligibility early.
+
+### Optional research starting points
+
+- [AI Career Atlas](https://kaw393939.github.io/ai-career-research/) compares the work behind AI-related titles and links employer examples. Its [research repository](https://github.com/kaw393939/ai-career-research) retains the methodology and evidence.
+- [AI Career Field Guide: New York and New Jersey](https://kaw393939.github.io/is117005-portfolio/) adds regional examples to investigate when location matters to you.
+
+Use these guides to discover questions and original sources, then read and verify the employer pages yourself. Their selected examples do not measure the whole job market or establish your eligibility. Your own interests and evidence drive the comparison, specification and portfolio; these optional leads do not replace your three employer records or add a report.
 
 ### Copyable prompt: discover roles
 

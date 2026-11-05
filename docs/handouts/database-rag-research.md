@@ -1,8 +1,14 @@
 # Vector, Graph and RAG Research
 
-IS373 | Independent student guide | November 3, 2026
+IS373 | Independent student guide | Updated November 5, 2026
 
 Everyone researches vector databases, graph databases, retrieval-augmented generation (RAG), chunking and content import. Your individual hosted chat may use vector retrieval, graph retrieval or both. Your group applies a justified architecture to one of the course content problems. Research supports the Plan review; implementation develops through Build and Release.
+
+## Optional instructor research example
+
+The [IS373 RAG research library](https://github.com/kaw393939/is373-rag/blob/main/docs/research/index.md) links similar projects, implementation resources, concept explanations and dated developments. The [repository](https://github.com/kaw393939/is373-rag) also shows proposed architecture, decision records and planned validation. It contains documentation, not an implemented RAG application or a mandatory technology stack.
+
+Study how a question leads to sources, alternatives, a bounded decision and a planned check. Follow the original technical sources and develop your own specification for your reader, permitted content and constraints. The course briefs and Canvas remain the instructions; this optional example adds no submission or installation requirement. A running application is not required at Plan.
 
 ## 1. Start with a reader, question and source
 
