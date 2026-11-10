@@ -4,6 +4,28 @@ Use these exact headings: **1. Individual portfolio + career research; 2. Indivi
 
 [See a small worked Plan outline](/examples/plan). It is fictional, includes unexecuted checks and does not replace your actual employer research.
 
+## Research review index
+
+At the top of your existing individual record, provide direct links to sections 1 and 2 and their relevant source, comparison, decision and check evidence. Keep **one combined individual record/repository with two clearly headed sections**; this index organizes existing evidence, not another report or a requirement for two research websites. Keep the team index in the separate shared record.
+
+- **Portfolio/career:** link the three original employer posting records and dates checked, comparison of two directions, chosen reader, responsibility-to-evidence map and layout decision. Link only suitable public research/design evidence; keep personal reflection private.
+- **RAG/technical:** link the research question and intended user, original technical sources and dates checked, vector/graph comparison, chosen architecture, permitted-source manifest, sample representation, evaluation questions and next check.
+- **Status:** label each linked item **planned**, **observed locally**, **observed in CI** or **observed hosted**, as applicable. An anticipated answer or illustrative trace is not an executed result. Record the revision/date for actual observations.
+- **Decision trail:** make it possible to follow source → observation → interpretation or assumption → alternatives → chosen decision → next experiment/check. Note where AI helped, which original evidence you verified yourself and what remains uncertain. You own the conclusions and results.
+
+At Plan, link sketches and proposed checks and label them honestly; a hosted app is optional. Build requires the working hosted foundation and small app journey already specified in the [stage requirements](/course/milestones). No source quota, extra submission or new implementation requirement is introduced here.
+
+### Research workshop walkthrough
+
+Ask a real partner to navigate the index without your explanation first, then discuss:
+
+1. **Career:** can the partner trace one portfolio choice back to an original employer responsibility and actual evidence of your work? Which part is an employer fact, and which is your hypothesis about fit?
+2. **RAG:** can the partner follow one permitted source through its proposed or actual chunk/graph representation, retrieval result and answer with citations? At Plan, use a labeled sketch; later, use an actual trace. Where could missing or irrelevant evidence produce an unsupported answer?
+3. **Alternatives:** why does the selected approach fit better than the compared baseline or alternative? What small check could change your decision?
+4. **Follow-through:** capture the partner's concrete question or problem in the existing GitHub issue workflow. Record your response and decision, link the documentation/code change, verify the change and record the resolution or remaining limit. A reasoned decision not to implement a suggestion should explain why.
+
+Reuse these notes in the existing record and review cycle. This walkthrough adds no issue quota and does not replace the real peer issue, improvement and retest required at Improve. AI critique can help preparation but is not human peer review.
+
 ## Three-section index to copy
 
 ### 1. Individual portfolio + career research
