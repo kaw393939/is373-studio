@@ -14,6 +14,8 @@ Keep employer/title, URL, access date, eligibility, location, required versus pr
 
 Optional leads: [AI Career Atlas](https://kaw393939.github.io/ai-career-research/) ([research repository](https://github.com/kaw393939/ai-career-research)) and the [New York/New Jersey career field guide](https://kaw393939.github.io/is117005-portfolio/). Use them to explore interests and find original employer sources, then make your own comparison and design decisions. Selected examples do not establish current availability or your eligibility.
 
+Make your research easy for a partner to review using the [research review index](/templates/project-record#research-review-index) in the same combined individual record. Link the original employer evidence to a specific portfolio decision, separate observed responsibilities from assumptions about fit, and identify the next check. Keep personal reflection private; this is navigation for existing evidence, not another report or research site.
+
 ## Turn findings into design decisions
 
 Write your target reader and what they should understand or do. Map three employer responsibilities to portfolio evidence. Compare two lightweight page or case-study layouts using the same content, then select one with a reason. You do not need to build two full sites.
