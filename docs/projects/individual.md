@@ -40,6 +40,8 @@ Compare a simple keyword/structured baseline with your selected approach. Compar
 
 For the research workshop and Plan, explain the process, compare approaches, prepare sources/questions and identify model access, cost and hosting questions. A running app is not required at Plan. The handout is a research guide; ContentDesk is an ETL/authentication reference, not a complete RAG starter. Bring unresolved setup/model-access questions to the workshop before committing to a stack or paid service. Working hosted implementation is required at Build. [Plan example](/examples/plan).
 
+For a partner walkthrough, use the [research review index and workshop prompts](/templates/project-record#research-review-index) in your existing combined individual record. Let a reader trace one source through representation, retrieval and a cited answer; mark proposed steps and expected outputs as planned until executed. Explain the alternative considered, the reason for your choice and the next check. Record peer questions, decisions, changes and verification in the existing issue/record workflow, without another report or issue quota.
+
 ## Start here
 
 [Independent database/RAG handout](/handouts/database-rag-research) · [Printable PDF](/handouts/IS373_Vector_Graph_and_RAG_Research.pdf) · [Career-informed portfolio](/projects/portfolio) · [Review dates](/course/section-001).
