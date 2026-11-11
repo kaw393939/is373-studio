@@ -8,7 +8,7 @@
 2. **Individual RAG app + technical research:** compare database/retrieval approaches and build your own source-supported chat application.
 3. **Group content system + problem research:** research a course problem and build a shared useful workflow.
 
-Bring the relevant progress for all three. [Separate expectations at each stage](/course/milestones) · [Full three-deliverable overview](/course/overview).
+Bring the relevant progress for all three. [Separate expectations at each stage](/course/milestones) · [Full three-deliverable overview](/course/overview) · [Get unstuck](/course/get-unstuck).
 
 ## Before next class
 

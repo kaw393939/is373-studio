@@ -36,5 +36,20 @@ for(const [id,section] of Object.entries(sections)){
   for(const obj of [c.guide,c.example])if(!obj?.text||!obj.link)failures.push(`${id}/${c.date}: incomplete guide/example`);else resolveLink(obj.link,path.join(docs,'index.md'))
  }
 }
+// Prevent another stale/current-student mismatch on the course homepage.
+const home=fs.readFileSync(path.join(docs,'index.md'),'utf8')
+for(const snippet of [
+  '<ClassWorkCard section="001" />',
+  '/assignments/769188',
+  '/assignments/769189',
+  '/course/get-unstuck',
+  'two submission boxes',
+  '/students/from-app-studio'
+]) if(!home.includes(snippet))failures.push('Homepage missing current student path: '+snippet)
+for(const obsolete of ['## Today: start the research and find a partner', '**Existing Server and App Studios remain due Nov 6']) {
+  if(home.includes(obsolete))failures.push('Homepage still presents historical instruction as current: '+obsolete)
+}
+const instructorFiles=['instructor/canvas-homepage.html','instructor/canvas-rag-clarification.html','instructor/CANVAS-UPDATE.md']
+for(const file of instructorFiles)if(!fs.existsSync(file))failures.push('Missing instructor Canvas copy: '+file)
 if(failures.length)throw Error(failures.join('\n'))
 console.log(`Checked ${pages.length} content pages and ${Object.keys(sections).length} section schedules.`)

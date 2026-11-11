@@ -1,6 +1,6 @@
 # Sources and course status
 
-Updated November 3, 2026. The remaining-term plan now includes a career-informed hosted portfolio, individual RAG using vector, graph or both, and a group content system. Career research informs portfolio design. Project reviews use the prospective 25/25/25/25 rubric; original Studio requirements stay intact.
+Course-site clarity reviewed November 11, 2026; **Canvas instructor/student-view verification is still required**. The remaining-term plan includes a career-informed hosted portfolio, individual RAG using vector, graph or both, and a group content system. Career research informs portfolio design. Project reviews use the prospective 25/25/25/25 rubric; original Studio requirements stay intact.
 
 | Source | What it establishes |
 | --- | --- |

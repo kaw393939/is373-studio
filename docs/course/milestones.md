@@ -2,7 +2,18 @@
 
 Track **three deliverables** throughout the same four stages: **1. Individual portfolio + career research; 2. Individual RAG app + technical research; 3. Group content system + problem research**. Keep sections 1 and 2 in an individual record and section 3 in a shared group record. Each review links the current site/repository, sources, relevant issues/PRs and actual checks with a short changed/checked/next note. No duplicate report is required.
 
-## Current Studio assignments
+## The immediate Plan hand-in
+
+**Tuesday, November 17, 2026, 1 p.m. Eastern** (published course guide):
+
+| Canvas box | What to link | What is *not* required yet |
+| --- | --- | --- |
+| [Individual Plan — Portfolio + RAG](https://njit.instructure.com/courses/70733/assignments/769188) | Your existing record with clearly labeled **1. Portfolio + career research** and **2. Individual RAG + technical research** sections; actual research, source lists, questions and design decisions | A completed hosted portfolio or hosted RAG app |
+| [Group Plan — Content system](https://njit.instructure.com/courses/70733/assignments/769189) | One shared group record for **3. Group content system**, reader/problem, sources, scope, roles and checks; each member links their own contribution | A finished hosted group product |
+
+**Only two Canvas submissions collect the three deliverables.** Label research and sketches **planned** until actually run. For the RAG, research both graph and vector approaches, but implement **the justified choice**. You can reuse App Studio and your current server; no new framework or paid AI service is required. [FastAPI-to-RAG help](https://kaw393939.github.io/is373-rag/students/from-app-studio) · [If you're stuck](/course/get-unstuck).
+
+## Earlier Studio assignments
 
 Server Studio and App Studio each remain 100 points, due **Nov 6, 11:59 p.m. Eastern**: agreed behavior 40; specification/checks/issue-PR evidence 35; your decisions/explanations/observations 25. App Studio is local. [Original scope](/projects/studios).
 

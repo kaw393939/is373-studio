@@ -2,6 +2,12 @@
 
 You will produce **two individual deliverables and one group deliverable**. Each starts with research and develops into a working result. Use these same three names in your project records, reviews and demo.
 
+## Start here: what is due next?
+
+For **November 17 at 1 p.m. Eastern**, the published course guide lists two Plan submissions: [individual Plan](https://njit.instructure.com/courses/70733/assignments/769188) covering the portfolio **and** individual RAG, and [group Plan](https://njit.instructure.com/courses/70733/assignments/769189) for the shared content system. **A hosted RAG application is not required for Plan**; the working hosted path is part of the November 24 Build milestone.
+
+Three deliverables do **not** mean three separate weekly reports. Continue your existing individual and shared group records. See [what to submit](/course/milestones#how-to-submit) or [get help](/course/get-unstuck).
+
 ## Deliverable 1 - Individual portfolio + career research
 
 **Question:** What kind of work do I want to pursue, and how will I show that I can do it?

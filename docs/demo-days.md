@@ -1,6 +1,6 @@
 # Demo Day: explain and demonstrate
 
-**Friday, December 18, 2026, 8:30-11 a.m. Eastern.** Follow Canvas for confirmed delivery/joining details and presentation slots. The syllabus lists CKB 114; confirm arrangements in the announcement before attending.
+**Friday, December 18, 2026, 8:30-11 a.m. Eastern.** **Delivery mode, joining details and presentation order must be confirmed in Canvas.** The published syllabus lists CKB 114, but do not assume the final is exclusively in person or that a prior Zoom link is authoritative. Confirm the current instructor announcement before attending.
 
 ## Finish before presenting
 
