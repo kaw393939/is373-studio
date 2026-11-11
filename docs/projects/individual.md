@@ -46,6 +46,8 @@ For a partner walkthrough, use the [research review index and workshop prompts](
 
 [Independent database/RAG handout](/handouts/database-rag-research) · [Printable PDF](/handouts/IS373_Vector_Graph_and_RAG_Research.pdf) · [Career-informed portfolio](/projects/portfolio) · [Review dates](/course/section-001).
 
+Optional student support: the [step-by-step RAG guide](https://github.com/kaw393939/is373-rag/blob/main/docs/students/index.md) includes [copy-ready AI coding prompts](https://github.com/kaw393939/is373-rag/blob/main/docs/students/prompts.md), a [five-question evaluation guide](https://github.com/kaw393939/is373-rag/blob/main/docs/students/check.md), and an optional small local lab. This is not another deliverable, a required stack, or a complete hosted solution. Keep this course brief and Canvas as the authority.
+
 Optional instructor example: the [IS373 RAG research library](https://github.com/kaw393939/is373-rag/blob/main/docs/research/index.md) and [repository](https://github.com/kaw393939/is373-rag) show research, proposed architecture and planned validation. They contain documentation, not a working RAG app or a mandatory stack. Use the original sources to inform your own bounded specification and actual checks.
 
 **The November 6 App Studio remains local with its original scope and rubric.** This later hosted RAG requirement does not change that submission.
