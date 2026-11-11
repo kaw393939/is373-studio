@@ -4,6 +4,8 @@ Use these outside class, then bring your sources, questions and current work to 
 
 - [Career research to portfolio design](/handouts/career-research) · [Printable PDF](/handouts/IS373_Career_Research_to_Portfolio.pdf)
 - [Vector databases, graph databases and RAG research](/handouts/database-rag-research) · [Printable PDF](/handouts/IS373_Vector_Graph_and_RAG_Research.pdf)
+- [Optional IS373 student RAG support](https://kaw393939.github.io/is373-rag/students/) · [Embeddings](https://kaw393939.github.io/is373-rag/students/embeddings) · [Chunking](https://kaw393939.github.io/is373-rag/students/chunking) · [AI libraries](https://kaw393939.github.io/is373-rag/students/library-survey)
+- [FastAPI-to-RAG walkthrough](https://kaw393939.github.io/is373-rag/students/from-app-studio) · [Copyable AI coding prompts](https://kaw393939.github.io/is373-rag/students/prompts)
 - [Copyable research prompts](/handouts/IS373_Research_Prompts.txt)
 - [Project record](/templates/project-record) · [Next class and pacing](/course/section-001)
 
