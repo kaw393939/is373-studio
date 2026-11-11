@@ -4,7 +4,11 @@ IS373 | Independent student guide | Updated November 5, 2026
 
 Everyone researches vector databases, graph databases, retrieval-augmented generation (RAG), chunking and content import. Your individual hosted chat may use vector retrieval, graph retrieval or both. Your group applies a justified architecture to one of the course content problems. Research supports the Plan review; implementation develops through Build and Release.
 
-## Optional help if you are stuck\n\nFor small steps, troubleshooting and reusable prompts, see the [IS373 student RAG guide](https://github.com/kaw393939/is373-rag/blob/main/docs/students/index.md). Its [optional local lab](https://github.com/kaw393939/is373-rag/tree/main/student-reference) demonstrates source IDs and retrieval but is not a hosted RAG submission. There is no additional Canvas requirement or mandatory technology stack.\n\n## Optional instructor research example
+## Optional IS373 RAG support
+
+The [student success guide](https://kaw393939.github.io/is373-rag/students/) helps you build **your own small hosted RAG** without changing this assignment. Start with [embeddings](https://kaw393939.github.io/is373-rag/students/embeddings), [chunking](https://kaw393939.github.io/is373-rag/students/chunking), or the [FastAPI-to-RAG path](https://kaw393939.github.io/is373-rag/students/from-app-studio) that reuses your existing App Studio and Server Studio work. The [library survey](https://kaw393939.github.io/is373-rag/students/library-survey) explains LangChain and alternatives; **none is required**. The [optional local example](https://github.com/kaw393939/is373-rag/tree/main/student-reference) is a teaching baseline, **not** a working hosted RAG submission. There is no additional Canvas requirement or mandatory technology stack.
+
+## Optional instructor research example
 
 The [IS373 RAG research library](https://github.com/kaw393939/is373-rag/blob/main/docs/research/index.md) links similar projects, implementation resources, concept explanations and dated developments. The [repository](https://github.com/kaw393939/is373-rag) also shows proposed architecture, decision records and planned validation. It contains documentation, not an implemented RAG application or a mandatory technology stack.
 
