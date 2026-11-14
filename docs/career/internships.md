@@ -11,7 +11,7 @@ On a small screen, scroll the table sideways to see every column.
 | Lead | Timing and location | Check before applying |
 | --- | --- | --- |
 | [Google · FDE Intern, BS/MS](https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027) | Summer 2027; NYC an option. **Apply before November 20, 2026**; rolling review. | Penultimate-year student; Python and production AI/cloud experience. |
-| [Palantir · Commercial FDSE intern](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | NYC onsite. Deadline not stated. | Graduation December 2027 or spring 2028; programming. |
+| [Palantir · Commercial FDSE intern](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply) | NYC onsite; **season and availability unconfirmed**. | Graduation eligibility and pay withheld pending employer confirmation; the form still refers to summer 2026. |
 | [Beacon Health · FDE intern](https://www.beaconhealth.ai/team/forward-deployed-engineer-intern) | NYC or remote options; rolling immediate/spring/summer 2027. | Enrolled student; Python/TypeScript and substantial shipped work beyond coursework. |
 | [Pace · FDE intern](https://jobs.ashbyhq.com/withpace/24c69367-3dfe-428e-98e6-0a6bf94a00e1) | NYC onsite; 10–14 summer weeks. **Year and deadline not stated.** | Strong programming; AI experience helpful. Indexed employer listing; confirm program dates. |
 | [MakiPeople · AI Implementation intern](https://jobs.ashbyhq.com/maki/e315491d-2c1d-4656-a5a2-07ce158d5d40) | NYC hybrid; six months from January 2027. **$27–$42/hour**; deadline not stated. | Related implementation work: configuration, testing, client rollout. Indexed employer listing; confirm student eligibility and class compatibility. |
@@ -50,3 +50,6 @@ These links preserve earlier course research. **Their availability, dates and el
 For each role, record **link + date checked, location, program dates, deadline, eligibility, three skills, one piece of your evidence, and one gap**. If something is unclear, write “not confirmed” and name what you need to check.
 
 You can pursue an opportunity while you are still learning. Be accurate about your skills; a class project alone does not meet every FDE requirement. [Career exploration guide](/career/explore) · [GitHub](/career/github) · [LinkedIn](/career/linkedin) · [Résumé](/career/resume).
+
+
+**Palantir recheck, November 14, 2026:** The NYC application form is readable but still asks about summer 2026; the full description could not be retrieved (403). Current season, availability, pay and graduation eligibility are unconfirmed. Do not transfer terms from another Palantir requisition.
