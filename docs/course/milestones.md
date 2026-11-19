@@ -54,4 +54,13 @@ Final assessment reuses your Improve links and Demo Day explanation; no second f
 
 The final assignments also require a short PowerPoint: each student prepares their own for the individual work, and each team prepares one shared deck for its group system. See the [Demo Day guide](/demo-days#prepare-the-required-powerpoint) for the story structure. Slots, duration and delivery details follow in Canvas.
 
-The current Canvas assignment groups place Tests, including final project assessments, at 50% of the course grade. General assignments and the individual/group project reviews together make up the other 50%. [Canvas assignments](https://njit.instructure.com/courses/70733/assignments) control the current category weights, official submissions and dates. [Project record](/templates/project-record).
+## Canvas grade weights
+
+| Canvas assignment group | Course grade |
+| --- | ---: |
+| Assignments and Labs | 50% |
+| Midterm | 25% |
+| Final Individual | 12.5% |
+| Final Group | 12.5% |
+
+Individual project reviews are in **Final Individual**; group project reviews are in **Final Group**. The percentages above describe the assignment groups, not the weight of each review. [Canvas assignments](https://njit.instructure.com/courses/70733/assignments) is the source for current weights, official submissions and due dates. [Project record](/templates/project-record).
